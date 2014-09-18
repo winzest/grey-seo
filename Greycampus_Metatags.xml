@@ -9,11 +9,19 @@
 	    <status>1</status>
     </record>
 	<record>
-	    <path>user/create</path> 
-	    <metatitle>Become A Member Meta Title</metatitle>
-	    <metakeywords>Become A Member Meta Keywords</metakeywords>
-	    <metadescription>Become A Member Meta Description</metadescription>
-	    <h1tag>Become A Member H1 Tag</h1tag>
+	    <path>default</path> 
+	    <metatitle>GC Meta Title</metatitle>
+	    <metakeywords>GC Meta Keywords</metakeywords>
+	    <metadescription>GC Meta Description</metadescription>
+	    <h1tag>GC H1 Tag</h1tag>
+	    <status>1</status>
+    </record>    
+	<record>
+	    <path>default1</path> 
+	    <metatitle>GC Meta Title</metatitle>
+	    <metakeywords>GC Meta Keywords</metakeywords>
+	    <metadescription>GC Meta Description</metadescription>
+	    <h1tag>GC H1 Tag</h1tag>
 	    <status>1</status>
     </record>    
 </document>
