@@ -1,35 +1,357 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<document> 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<record>
-	    <path>user/login</path> 
-	    <metatitle>Login Page Meta Title</metatitle>
-	    <metakeywords>Login Page Meta Keywords</metakeywords>
-	    <metadescription>Login Page Meta Description</metadescription>
-	    <h1tag>Login Page H1 Tag</h1tag>
-	    <status>1</status>
-    </record>
+		<path>user/login</path>
+		<metatitle>Login Page Meta Title</metatitle>
+		<metakeywords>Login Page Meta Keywords</metakeywords>
+		<metadescription>Login Page Meta Description</metadescription>
+		<h1tag>Login Page H1 Tag</h1tag>
+		<status>1</status>
+	</record>
 	<record>
-	    <path>default</path> 
-	    <metatitle>GC Meta Title</metatitle>
-	    <metakeywords>GC Meta Keywords</metakeywords>
-	    <metadescription>GC Meta Description</metadescription>
-	    <h1tag>GC H1 Tag</h1tag>
-	    <status>1</status>
-    </record>    
+		<path>default</path>
+		<metatitle>GC Meta Title</metatitle>
+		<metakeywords>GC Meta Keywords</metakeywords>
+		<metadescription>GC Meta Description</metadescription>
+		<h1tag>GC H11 Tag</h1tag>
+		<status>1</status>
+	</record>
 	<record>
-	    <path>default1</path> 
-	    <metatitle>GC Meta Title</metatitle>
-	    <metakeywords>GC Meta Keywords</metakeywords>
-	    <metadescription>GC Meta Description</metadescription>
-	    <h1tag>GC H1 Tag</h1tag>
-	    <status>1</status>
-    </record>    
-    <record>
-	    <path>default5</path> 
-	    <metatitle>GC Meta Title</metatitle>
-	    <metakeywords>GC Meta Keywords</metakeywords>
-	    <metadescription>GC Meta Description</metadescription>
-	    <h1tag>GC H1 Tag</h1tag>
-	    <status>1</status>
-    </record>    
+		<path>default1</path>
+		<metatitle>GC Meta Title</metatitle>
+		<metakeywords>GC Meta Keywords</metakeywords>
+		<metadescription>GC Meta Description</metadescription>
+		<h1tag>GC H1 Tag</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>default5</path>
+		<metatitle>GC Meta Title</metatitle>
+		<metakeywords>GC Meta Keywords</metakeywords>
+		<metadescription>GC Meta Description</metadescription>
+		<h1tag>GC H1 Tag</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/adelaide</path>
+		<metatitle>PMP Boot Camp Training in Adelaide| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Adelaide and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Adelaide</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/brisbane</path>
+		<metatitle>PMP Boot Camp Training in Brisbane| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Brisbane and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Brisbane</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/canberra</path>
+		<metatitle>PMP Boot Camp Training in Canberra| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Canberra and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Canberra</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/melbourne</path>
+		<metatitle>PMP Boot Camp Training in Melbourne| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Melbourne and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Melbourne</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/perth</path>
+		<metatitle>PMP Boot Camp Training in Perth| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Perth and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Perth</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/sydney</path>
+		<metatitle>PMP Boot Camp Training in Sydney| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Sydney and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Sydney</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/shanghai</path>
+		<metatitle>PMP Boot Camp Training in Shanghai| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Shanghai and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Shanghai</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/bangalore</path>
+		<metatitle>PMP Boot Camp Training in Bangalore| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Bangalore and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Bangalore</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/chennai</path>
+		<metatitle>PMP Boot Camp Training in Chennai| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Chennai and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Chennai</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/delhi</path>
+		<metatitle>PMP Boot Camp Training in Delhi| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Delhi and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Delhi</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/hyderabad</path>
+		<metatitle>PMP Boot Camp Training in Hyderabad| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Hyderabad and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Hyderabad</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/kolkata</path>
+		<metatitle>PMP Boot Camp Training in Kolkata| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Kolkata and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Kolkata</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/mumbai</path>
+		<metatitle>PMP Boot Camp Training in Mumbai| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Mumbai and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Mumbai</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/pune</path>
+		<metatitle>PMP Boot Camp Training in Pune| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Pune and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Pune</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/lagos</path>
+		<metatitle>PMP Boot Camp Training in Lagos| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Lagos and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Lagos</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/port-harcourt</path>
+		<metatitle>PMP Boot Camp Training in Port Harcourt| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Port Harcourt and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Port Harcourt</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/riyadh</path>
+		<metatitle>PMP Boot Camp Training in Riyadh| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Riyadh and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Riyadh</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/durban</path>
+		<metatitle>PMP Boot Camp Training in Durban| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Durban and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Durban</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/johannesburg</path>
+		<metatitle>PMP Boot Camp Training in Johannesburg| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Johannesburg and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Johannesburg</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/dubai</path>
+		<metatitle>PMP Boot Camp Training in Dubai| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Dubai and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Dubai</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/austin</path>
+		<metatitle>PMP Boot Camp Training in Austin| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Austin and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Austin</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/charlotte</path>
+		<metatitle>PMP Boot Camp Training in Charlotte| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Charlotte and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Charlotte</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/chicago</path>
+		<metatitle>PMP Boot Camp Training in Chicago| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Chicago and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Chicago</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/dallas</path>
+		<metatitle>PMP Boot Camp Training in Dallas| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Dallas and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Dallas</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/houston</path>
+		<metatitle>PMP Boot Camp Training in Houston| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Houston and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Houston</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/los-angeles</path>
+		<metatitle>PMP Boot Camp Training in Los Angeles| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Los Angeles and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Los Angeles</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/new-york</path>
+		<metatitle>PMP Boot Camp Training in New York| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in New York and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in New York</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/beijing</path>
+		<metatitle>PMP Boot Camp Training in Beijing| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Beijing and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Beijing</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/accra</path>
+		<metatitle>PMP Boot Camp Training in Accra| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Accra and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Accra</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/hong-kong</path>
+		<metatitle>PMP Boot Camp Training in Hong Kong| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Hong Kong and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Hong Kong</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/ahmedabad</path>
+		<metatitle>PMP Boot Camp Training in Ahmedabad| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Ahmedabad and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Ahmedabad</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/jakarta</path>
+		<metatitle>PMP Boot Camp Training in Jakarta| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Jakarta and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Jakarta</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/tokyo</path>
+		<metatitle>PMP Boot Camp Training in Tokyo| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Tokyo and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Tokyo</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/al-asimah</path>
+		<metatitle>PMP Boot Camp Training in Al Asimah| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Al Asimah and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Al Asimah</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/kuala-lumpur</path>
+		<metatitle>PMP Boot Camp Training in Kuala Lumpur| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Kuala Lumpur and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Kuala Lumpur</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/russia</path>
+		<metatitle>PMP Boot Camp Training in Russia| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Russia and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Russia</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/abuja</path>
+		<metatitle>PMP Boot Camp Training in Abuja| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Abuja and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Abuja</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/muskat</path>
+		<metatitle>PMP Boot Camp Training in Muskat| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Muskat and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Muskat</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/manila</path>
+		<metatitle>PMP Boot Camp Training in Manila| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Manila and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Manila</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/doha</path>
+		<metatitle>PMP Boot Camp Training in Doha| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Doha and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Doha</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/jeddah</path>
+		<metatitle>PMP Boot Camp Training in Jeddah| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Jeddah and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Jeddah</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/singapore</path>
+		<metatitle>PMP Boot Camp Training in Singapore| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Singapore and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Singapore</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/cape-town</path>
+		<metatitle>PMP Boot Camp Training in Cape Town| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Cape Town and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Cape Town</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/bangkok</path>
+		<metatitle>PMP Boot Camp Training in Bangkok| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Bangkok and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Bangkok</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/abu-dhabi</path>
+		<metatitle>PMP Boot Camp Training in Abu Dhabi| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Abu Dhabi and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Abu Dhabi</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/atlanta</path>
+		<metatitle>PMP Boot Camp Training in Atlanta| 4/3 Days Classroom Workshop</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Atlanta and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Boot Camp Training in Atlanta</h1tag>
+		<status>1</status>
+	</record>
 </document>
