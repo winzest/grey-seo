@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<record>
-		<path>user/login</path>
-		<metatitle>Login Page Meta Title</metatitle>
-		<metakeywords>Login Page Meta Keywords</metakeywords>
-		<metadescription>Login Page Meta Description</metadescription>
-		<h1tag>Login Page H1 Tag</h1tag>
-		<status>1</status>
-	</record>
-	<record>
-		<path>default</path>
-		<metatitle>GC Meta Title</metatitle>
-		<metakeywords>GC Meta Keywords</metakeywords>
-		<metadescription>GC Meta Description</metadescription>
-		<h1tag>GC H11 Tag</h1tag>
-		<status>1</status>
-	</record>
-	<record>
-		<path>default1</path>
-		<metatitle>GC Meta Title</metatitle>
-		<metakeywords>GC Meta Keywords</metakeywords>
-		<metadescription>GC Meta Description</metadescription>
-		<h1tag>GC H1 Tag</h1tag>
-		<status>1</status>
-	</record>
-	<record>
-		<path>default5</path>
-		<metatitle>GC Meta Title</metatitle>
-		<metakeywords>GC Meta Keywords</metakeywords>
-		<metadescription>GC Meta Description</metadescription>
-		<h1tag>GC H1 Tag</h1tag>
-		<status>1</status>
-	</record>
-	<record>
 		<path>project-management/pmp-boot-camp-training/adelaide</path>
 		<metatitle>PMP Boot Camp Training in Adelaide| 4/3 Days Classroom Workshop</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Adelaide and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
