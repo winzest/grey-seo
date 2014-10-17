@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<path>project-management/pmp-boot-camp-training/adelaide</path>
+		<canonical>project-management/pmp-boot-camp-training</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/brisbane</path>
+		<canonical>project-management/pmp-boot-camp-training</canonical>
+		<status>1</status>
+	</record>
+</document>
