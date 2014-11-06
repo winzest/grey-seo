@@ -1372,7 +1372,7 @@
 	</record>
 	<record>
 		<path>allcategories/prince2-foundation-boot-camp-training/johannesburg</path>
-		<canonical>http://www.greycampus.com/project-management/prince2-foundation-and-practitioner-boot-camp-training/johannesburg</canonical>
+		<canonical>project-management/prince2-foundation-and-practitioner-boot-camp-training/johannesburg</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1382,12 +1382,12 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/houston</path>
-		<canonical>http://www.greycampus.com/quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/houston</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/houston</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/bangkok</path>
-		<canonical>http://www.greycampus.com/quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/bangkok</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/bangkok</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1402,7 +1402,7 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/new-york</path>
-		<canonical>http://www.greycampus.com/quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1437,7 +1437,7 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/new-york</path>
-		<canonical>http://www.greycampus.com/quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</canonical>
 		<status>1</status>
 	</record>
 </document>
