@@ -397,7 +397,7 @@
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -957,7 +957,7 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1357,12 +1357,12 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1412,7 +1412,7 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/info</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
