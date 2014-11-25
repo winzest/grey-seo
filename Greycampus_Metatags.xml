@@ -1381,4 +1381,141 @@
 		<h1tag>PMP Boot Camp Training in Washington DC</h1tag>
 		<status>1</status>
 	</record>
+	<record>
+		<path>blog</path>
+		<metatitle>Blog | Professional certification resources | PMP, ITIL, Six Sigma &amp; more</metatitle>
+		<metadescription>A dedicated blog for professional certifications across world. GreyCampus provides abundant resources on professional certification like PMP, Six Sigma, ITIL and more.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/big-data</path>
+		<metatitle>Blog | Big Data Resources | Big Data, Hadoop, Pig, HDFS Wiki</metatitle>
+		<metadescription>A dedicated blog for Big Data across world. GreyCampus provides abundant resources on professional certification like Big Data, Hadoop, HDFS, PIG &amp; more.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/it-service-management</path>
+		<metatitle>Blog | IT Service Management Resources | ITIL Foundation 2011 Wiki</metatitle>
+		<metadescription>A dedicated blog for IT Service Management across world. GreyCampus provides abundant resources on professional certification like ITIL Foundation 2011 course.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/it-service-management/greycampus-accredited-by-peoplecert</path>
+		<metatitle>GreyCampus is now accredited by PeopleCert</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/press-release</path>
+		<metatitle>GreyCampus Press Releases</metatitle>
+		<metadescription>Keep updated with latest happenings in GreyCampus.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/project-management</path>
+		<metatitle>Blog | Project Management Resourses | PMP, PRINCE2, PMI-ACP, CAPM Wiki</metatitle>
+		<metadescription>A dedicated blog for Project Management across world. GreyCampus provides abundant resources on professional certification like PMP, PRINCE2, PMI-ACP, CAPM &amp; more.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/project-management/the-pmp-toppers-toolkit</path>
+		<metatitle>The PMP Toppers Toolkit</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/quality-management</path>
+		<metatitle>Blog | Quality Management Resources | Six Sigma Green &amp; Black Belt Wiki</metatitle>
+		<metadescription>A dedicated blog for Quality Management across world. GreyCampus provides abundant resources on professional certification like Six Sigma/Lean Six Sigma Green and Belt Courses.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>it-service-management/itil-foundation-boot-camp-training</path>
+		<metatitle>ITIL- Foundation Certification Training | ITIL Exam Included | ITIL Classroom Course</metatitle>
+		<metadescription>Get ITIL-Foundation Certification with our tailored classroom training and 90 Days online E-Learning access. 100% pass guarantee. Certification from APMG United Kingdom.</metadescription>
+		<h1tag>ITIL Foundation Certification Training</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>it-service-management/itil-foundation-boot-camp-training/dallas</path>
+		<metatitle>ITIL- Foundation Certification Training in Dallas</metatitle>
+		<metadescription>Get ITIL-Foundation Certification with our tailored classroom training in Dallas and 1 Year of online E-Learning access. 100% pass guarantee. Certification from APMG United Kingdom.</metadescription>
+		<h1tag>ITIL Foundation Training &amp; Certificaition in Dallas</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>it-service-management/itil-foundation-boot-camp-training/washington-dc</path>
+		<metatitle>ITIL- Foundation Certification Training in Washington DC</metatitle>
+		<metadescription>Get ITIL-Foundation Certification with our tailored classroom training in Washington DC and 1 Year of online E-Learning access. 100% pass guarantee. Certification from APMG United Kingdom.</metadescription>
+		<h1tag>ITIL Foundation Training &amp; Certificaition in Washington DC</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training</path>
+		<metatitle>PMP Certification Training | Boot Camp for PMP Exam Prep</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Certification Exam Prep - Boot Camp Training</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/boston</path>
+		<metatitle>PMP Certification Training in Boston | Boot Camp for PMP Exam Prep</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Boston along with 1 Year online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Certification Training in Boston</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/moscow</path>
+		<metatitle>PMP Boot Certification Training in Moscow | Boot Camp for PMP Exam Prep</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in Moscow and 90 Days online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Certification Training in Moscow</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-boot-camp-training/san-francisco</path>
+		<metatitle>PMP Certification Training in San Francisco |Boot Camp for PMP Exam Prep</metatitle>
+		<metadescription>Get PMP certified with our tailored PMP boot camp training in San Francisco along with 1 Year online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
+		<h1tag>PMP Certification Training in San Francisco</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</path>
+		<metatitle>Six Sigma Green Belt &amp; Black Belt Certification Training</metatitle>
+		<metadescription>Get Six Sigma Green Belt and Black Belt certified with our tailored boot camp training and 90 Days online E-Learning access. 100% pass guarantee. GreyCampus Six Sigma Green Belt and Black Belt Certification Exam (online) included</metadescription>
+		<h1tag>Six Sigma Green Belt and Black Belt Training &amp; Certification</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/houston</path>
+		<metatitle>Six Sigma Green Belt &amp; Black Belt Boot CampTraining</metatitle>
+		<metadescription>Get Six Sigma Green Belt and Black Belt certified with our tailored boot camp training in Houston along with 1 year of online E-Learning access. 100% pass guarantee. GreyCampus Six Sigma Green Belt and Black Belt Certification Exam (online) included</metadescription>
+		<h1tag>Six Sigma Green Belt and Black Belt Training &amp; Certification in Houston</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</path>
+		<metatitle>Six Sigma Green Belt &amp; Black Belt Certification Training in New York</metatitle>
+		<metadescription>Get Six Sigma Green Belt and Black Belt certified with our tailored boot camp training in New York along with 1 year of online E-Learning access. 100% pass guarantee. GreyCampus Six Sigma Green Belt and Black Belt Certification Exam (online) included</metadescription>
+		<h1tag>Six Sigma Green Belt and Black Belt Training &amp; Certification in New York</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/washington-dc</path>
+		<metatitle>Six Sigma Green Belt &amp; Black Belt Certification Training in Washington DC</metatitle>
+		<metadescription>Get Six Sigma Green Belt and Black Belt certified with our tailored boot camp training in Washington DC along with 1 year of online E-Learning access. 100% pass guarantee. GreyCampus Six Sigma Green Belt and Black Belt Certification Exam (online) included</metadescription>
+		<h1tag>Six Sigma Green Belt and Black Belt Training &amp; Certification in Washington DC</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-boot-camp-training</path>
+		<metatitle>Six Sigma Green Belt Certification Training | Classroom Workshop</metatitle>
+		<metadescription>Get Six Sigma Green Belt certified with our tailored boot camp training and 90 Days online E-Learning access. 100% pass guarantee. GreyCampus Six Sigma Green Belt Certification Exam.</metadescription>
+		<h1tag>Six Sigma Green Belt Certification Training</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-boot-camp-training/washington-dc</path>
+		<metatitle>Six Sigma Green Belt Boot Camp Training | Classroom Workshop</metatitle>
+		<metadescription>Get Six Sigma Green Belt certified with our tailored boot camp training in Washington DC along with 1 year of online E-Learning access. 100% pass guarantee. GreyCampus Six Sigma Green Belt Certification Exam.</metadescription>
+		<h1tag>Six Sigma Green Belt Certification Training in Washington DC</h1tag>
+		<status>1</status>
+	</record>
 </document>
