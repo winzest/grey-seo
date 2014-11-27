@@ -1440,4 +1440,24 @@
 		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</canonical>
 		<status>1</status>
 	</record>
+	<record>
+		<path>quality-management/six-sigma-black-belt-boot-camp-training/new-york</path>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-boot-camp-training/new-york</path>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/new-york</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-boot-camp-training/washington-dc</path>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/washington-dc</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-black-belt-boot-camp-training/washington-dc</path>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/washington-dc</canonical>
+		<status>1</status>
+	</record>
 </document>
