@@ -1460,4 +1460,44 @@
 		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/washington-dc</canonical>
 		<status>1</status>
 	</record>
+	<record>
+		<path>project-management/pmp-speed-prep-workshop/kuala-lumpur</path>
+		<canonical>project-management/pmp-boot-camp-training/kuala-lumpur</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management/pmp-speed-prep-workshop/tokyo</path>
+		<canonical>project-management/pmp-boot-camp-training/tokyo</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>allcategories/pmp-virtual-classroom-training/brazil</path>
+		<canonical>project-management/pmp-virtual-classroom-training/brazil</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>allcategories/pmp-virtual-classroom-training/brazil</path>
+		<canonical>project-management/pmp-virtual-classroom-training/brazil</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>it-service-management/itil-foundation-boot-camp-training/info</path>
+		<canonical>it-service-management/itil-foundation-boot-camp-training</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-green-belt-boot-camp-training/info</path>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>home</path>
+		<canonical>/</canonical>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management/six-sigma-black-belt-boot-camp-training/washington-dc</path>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/washington-dc</canonical>
+		<status>1</status>
+	</record>
 </document>
