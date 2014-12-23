@@ -1714,4 +1714,25 @@
 		<h1tag>ITSM Online Training Course</h1tag>
 		<status>1</status>
 	</record>
+	<record>
+		<path>project-management</path>
+		<metatitle>Project Management Certification &amp; Training | Online &amp; Boot Camp Training</metatitle>
+		<h1tag>Project Management Training &amp; Certification</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management</path>
+		<metatitle>Quality Management Certification &amp; Training | Online &amp; Boot Camp Training</metatitle>
+		<h1tag>Quality Management Training &amp; Certification</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>it-service-management</path>
+		<metatitle>IT Service Management Certification &amp; Training | ITSM Certification | Online &amp; Boot Camp Training</metatitle>
+		<h1tag>ITSM Online &amp; Boot Camp Training &amp; Certification</h1tag>
+		<status>1</status>
+	</record>
+	<record/>
+	<record/>
+	<record/>
 </document>
