@@ -1678,4 +1678,40 @@
 		<h1tag>Six Sigma Black Belt Certification Training in Washington DC</h1tag>
 		<status>1</status>
 	</record>
+	<record>
+		<path>project-management?type_id=2</path>
+		<metatitle>Project Management Certification &amp; Training | Project Management Professional, PRINCE2</metatitle>
+		<h1tag>Project Management Training &amp; Certification</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management?type_id=2</path>
+		<metatitle>Quality Management Certification &amp; Training | Six Sigma, Lean Six Sigma</metatitle>
+		<h1tag>Quality Management Training &amp; Certification</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>it-service-management?type_id=2</path>
+		<metatitle>IT Service Management Certification &amp; Training | ITSM Certification</metatitle>
+		<h1tag>ITSM Boot Camp Training &amp; Certification</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>project-management?type_id=1</path>
+		<metatitle>Project Management Online Training and Certification Course</metatitle>
+		<h1tag>Project Management Online Training Course</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>quality-management?type_id=1</path>
+		<metatitle>Quality Management Online Training and Certification Course</metatitle>
+		<h1tag>Quality Management Online Training Course</h1tag>
+		<status>1</status>
+	</record>
+	<record>
+		<path>it-service-management?type_id=1</path>
+		<metatitle>IT service Management Online Training and Certification Course | ITSM Online Course</metatitle>
+		<h1tag>ITSM Online Training Course</h1tag>
+		<status>1</status>
+	</record>
 </document>
