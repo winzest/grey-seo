@@ -277,85 +277,85 @@
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/pmp-classroom</path>
+		<path>pmp-classroom</path>
 		<metatitle>PMP Certification Training | Boot Camp for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training and 1 year online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/prince2-practitioner-classroom</path>
+		<path>prince2-practitioner-classroom</path>
 		<metatitle>PRINCE2 Practitioner Training &amp; Certification|Classroom Workshop</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our classroom training and 1 year eLearning access. PEOPLECERT ATO. Print Copy of PRINCE2 Handbook &amp; Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/prince2-foundation-classroom</path>
+		<path>prince2-foundation-classroom</path>
 		<metatitle>PRINCE2 Foundation Training &amp; Certification|Classroom Workshop</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our classroom training and 1 year eLearning access. PEOPLECERT ATO. Print Copy of PRINCE2 Handbook &amp; Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/six-sigma-black-belt-classroom</path>
+		<path>six-sigma-black-belt-classroom</path>
 		<metatitle>Six Sigma Black Belt Training &amp; Certification|Exam Included</metatitle>
-		<metadescription>Get Six Sigma Black Belt Training and Certification. This is classroom training with eLearning access and various learning tools. </metadescription>
+		<metadescription>Get Six Sigma Black Belt Training and Certification. This is classroom training with eLearning access and various learning tools.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/six-sigma-green-belt-classroom</path>
+		<path>six-sigma-green-belt-classroom</path>
 		<metatitle>Six Sigma Green Belt Training &amp; Certification|Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt and Black Belt certified with our tailored boot camp training and 1 year online E-Learning access. 100% pass guarantee. GreyCampus Six Sigma Green Belt and Black Belt Certification Exam (online) included</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/itil-foundation-classroom</path>
+		<path>itil-foundation-classroom</path>
 		<metatitle>ITIL Foundation Certification |Classroom Training|ITIL Exam Included</metatitle>
-		<metadescription>Enroll for ITIL classroom training and certification program. Get 1 year free access to E-learning. Get an understanding of the ITIL® framework. </metadescription>
+		<metadescription>Enroll for ITIL classroom training and certification program. Get 1 year free access to E-learning. Get an understanding of the ITIL® framework.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/pmp-online</path>
+		<path>pmp-online</path>
 		<metatitle>PMP Online Training Course | Mock Exams, Practice Tests Included</metatitle>
 		<metadescription>Online self-learning program on Project Management Professional (PMP) Certification from Project Management Institute (PMI) USA. </metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/prince2-foundation-online</path>
+		<path>prince2-foundation-online</path>
 		<metatitle>PRINCE2 Foundation Online Training Course | PRINCE2-F Exam Included</metatitle>
 		<metadescription>Pass PRINCE2 Foundation Exam in the first attempt. Get access to online modules, supporting documents and PRINCE2 Foundation manual.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/prince2-practitioner-online</path>
+		<path>prince2-practitioner-online</path>
 		<metatitle>PRINCE2 Practitioner Online Training Course|PRINCE2-P Exam Included</metatitle>
 		<metadescription>PRINCE2 Practitioner Online course accredited by PEOPLECERT. Your complete package includes everything you need to successfully pass the exam. </metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/six-sigma-green-belt-online</path>
+		<path>six-sigma-green-belt-online</path>
 		<metatitle>Six Sigma Green Belt Certification| Online Course|Training &amp; Exam</metatitle>
-		<metadescription>Six Sigma Green Belt online learning and certification program helps prepare well to get the certification. </metadescription>
+		<metadescription>Six Sigma Green Belt online learning and certification program helps prepare well to get the certification.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/six-sigma-black-belt-online</path>
+		<path>six-sigma-black-belt-online</path>
 		<metatitle>Six Sigma Black Belt Certification| Online Course|Training &amp; Exam</metatitle>
-		<metadescription>Be a Certified Six Sigma Black Belt to make a career in quality management. Get 1 year free access to learning modules. </metadescription>
+		<metadescription>Be a Certified Six Sigma Black Belt to make a career in quality management. Get 1 year free access to learning modules.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/lean-six-sigma-green-belt-online</path>
+		<path>lean-six-sigma-green-belt-online</path>
 		<metatitle>Lean Six Sigma Green Belt Certification| Online Course|Training &amp; Exam</metatitle>
-		<metadescription>Lean Six Sigma Green Belt online learning and certification program helps prepare well to get the certification. </metadescription>
+		<metadescription>Lean Six Sigma Green Belt online learning and certification program helps prepare well to get the certification.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/lean-six-sigma-black-belt-online</path>
+		<path>lean-six-sigma-black-belt-online</path>
 		<metatitle>Lean Six Sigma Black Belt Certification| Online Course|Training &amp; Exam</metatitle>
-		<metadescription>Be a Certified Lean Six Sigma Black Belt to make a career in quality management. Get 1 year free access to learning modules with the online course. </metadescription>
+		<metadescription>Be a Certified Lean Six Sigma Black Belt to make a career in quality management. Get 1 year free access to learning modules with the online course.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>product/itil-foundation-online</path>
+		<path>itil-foundation-online</path>
 		<metatitle>ITIL Foundation Online Training Course|ITIL F Certification Exam Included</metatitle>
 		<metadescription>The ITIL certification gives a scientific approach to the ITIL framework. The online course includes modules, simulated tests, flashcards and more.</metadescription>
 		<status>1</status>
