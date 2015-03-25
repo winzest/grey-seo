@@ -1256,4 +1256,59 @@
 		<metadescription>Get Six Sigma Green Belt Certified from GreyCampus. Classroom training in Pune. 100% passing guarantee.</metadescription>
 		<status>1</status>
 	</record>
+	<record>
+		<path>service-management-online</path>
+		<metatitle>Service Management Online Training</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>minitab-online</path>
+		<metatitle>Minitab Online Training</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>basic-python-programming-live-online</path>
+		<metatitle>Basic Python Programming Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>web-development-using-python-and-django-live-online</path>
+		<metatitle>Web Development using Python and Django | Live Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>database-programming-using-python-live-online</path>
+		<metatitle>Database Programming using Python | Live Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>scientific-computing-using-scipy-live-online</path>
+		<metatitle>Scientific Computing using Scipy | Live Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>hadoop-fundamentals-live-online</path>
+		<metatitle>Hadoop Fundamentals Live Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>hadoop-datastorage-and-data-processing-live-online</path>
+		<metatitle>Hadoop Data Storage &amp; Data Processing | Live Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>hadoop-programming-live-online</path>
+		<metatitle>Hadoop Programming Live Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>r-and-data-visualization-live-online</path>
+		<metatitle>R Analytics and Data Visualization Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>itil-foundation-live-online</path>
+		<metatitle>ITIL Foundation Instructor led online training | 2 Day course | Exam Included</metatitle>
+		<status>1</status>
+	</record>
 </document>
