@@ -1,1362 +1,1215 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<record>
-		<path>pmp-classroom/sydney</path>
+		<path>pmp-training-instructor-led/sydney</path>
 		<metatitle>PMP Certification Training in Sydney | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus provides PMP 4 days classroom training in Sydney. 100%money back guarantee. Experienced trainers.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/melbourne</path>
+		<path>pmp-training-instructor-led/melbourne</path>
 		<metatitle>PMP Certification Training in Melbourne | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus provides PMP Boot Camp in Melbourne. 3 days classroom training. 30 days instructor helpline.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/perth</path>
+		<path>pmp-training-instructor-led/perth</path>
 		<metatitle>PMP Certification Training in Perth | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Perth and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/auckland</path>
+		<path>pmp-training-instructor-led/auckland</path>
 		<metatitle>PMP Certification Training in Auckland | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Auckland and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/hong-kong</path>
+		<path>pmp-training-instructor-led/hong-kong</path>
 		<metatitle>PMP Certification Training in Hong Kong | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>PMP Boot Camp in HongKong. 3 days classroom training by GreyCampus. Get trained by PMP certified trainers.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/singapore</path>
+		<path>pmp-training-instructor-led/singapore</path>
 		<metatitle>PMP Certification Training in Singapore | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>PMP classroom training at Singapore. GreyCampus provides 3 days classroom training. Free access to e-learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/jakarta</path>
+		<path>pmp-training-instructor-led/jakarta</path>
 		<metatitle>PMP Certification Training in Jakarta | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus provides PMP 4 days classroom training in Jakarta. 100% money back guarantee.30 days instructor helpline.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/dubai</path>
+		<path>pmp-training-instructor-led/dubai</path>
 		<metatitle>PMP Certification Training in Dubai | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Dubai and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/abu-dhabi</path>
+		<path>pmp-training-instructor-led/abu-dhabi</path>
 		<metatitle>PMP Certification Training in Abu Dhabi | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Abu Dhabi and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/riyadh</path>
+		<path>pmp-training-instructor-led/riyadh</path>
 		<metatitle>PMP Certification Training in Riyadh | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus provides PMP 5 days classroom training in Riyadh. 100%money back guarantee. 30 days instructor help line.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/jeddah</path>
+		<path>pmp-training-instructor-led/jeddah</path>
 		<metatitle>PMP Certification Training in Jeddah | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Jeddah and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/hyderabad</path>
+		<path>pmp-training-instructor-led/hyderabad</path>
 		<metatitle>PMP Certification Training in Hyderabad | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus Provides PMP 3 days classroom training in Hyderabad.100% money back guarantee. Experienced trainers.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/bangalore</path>
+		<path>pmp-training-instructor-led/bangalore</path>
 		<metatitle>PMP Certification Training in Bangalore | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>PMP Boot Camp. Course offered by GreyCampus. 35 Contact Hours Certificate. 3 Days classroom training.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/mumbai</path>
+		<path>pmp-training-instructor-led/mumbai</path>
 		<metatitle>PMP Certification Training in Mumbai | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP classroom training at NewYork. Trainers are PMP credential holders. 100% Money Back Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/atlanta</path>
+		<path>pmp-training-instructor-led/atlanta</path>
 		<metatitle>PMP Certification Training in Atlanta | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus provides PMP classroom training in Atlanta. 3 days training. Enroll today. PMI REP (ID 3871).</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/charlotte</path>
+		<path>pmp-training-instructor-led/charlotte</path>
 		<metatitle>PMP Certification Training in Charlotte | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>PMP classroom training at Charlotte. 3 days classroom training. GreyCampus is PMI REP (ID 3871).</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/chicago</path>
+		<path>pmp-training-instructor-led/chicago</path>
 		<metatitle>PMP Certification Training in Chicago | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Chicago and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/dallas</path>
+		<path>pmp-training-instructor-led/dallas</path>
 		<metatitle>PMP Certification Training in Dallas | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>PMP boot camp in Dallas. Training provided by GreyCampus. 35 Contact Hour Certificate.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/houston</path>
+		<path>pmp-training-instructor-led/houston</path>
 		<metatitle>PMP Certification Training in Houston | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Enroll for PMP classroom training at Houston. PMP certified trainers. Trained over 10000 professionals.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/los-angeles</path>
+		<path>pmp-training-instructor-led/los-angeles</path>
 		<metatitle>PMP Certification Training in Los Angeles | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus provides PMP classroom training in Los Angeles. 3 days training. Enroll today. PMI REP (ID 3871).</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/new-york</path>
+		<path>pmp-training-instructor-led/new-york</path>
 		<metatitle>PMP Certification Training in New York | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Enroll for ITIL foundation classes in Mumbai by GreyCampus. 100% Passing Guarantee. Instant Results.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/san-francisco</path>
+		<path>pmp-training-instructor-led/san-francisco</path>
 		<metatitle>PMP Certification Training in San Francisco | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in San Francisco and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/washington-dc</path>
+		<path>pmp-training-instructor-led/washington-dc</path>
 		<metatitle>PMP Certification Training in Washington Dc | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>PMP Boot Camp in Washington D.C. by GreyCampus. 3 Day classroom training. PMI REP (ID 3871).</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/boston</path>
+		<path>pmp-training-instructor-led/boston</path>
 		<metatitle>PMP Certification Training in Boston | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Boston and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/minneapolis</path>
+		<path>pmp-training-instructor-led/minneapolis</path>
 		<metatitle>PMP Certification Training in Minneapolis | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Minneapolis and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/raleigh</path>
+		<path>pmp-training-instructor-led/raleigh</path>
 		<metatitle>PMP Certification Training in Raleigh | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Raleigh and 1 year eLearning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/singapore</path>
+		<path>itil-foundation-training-instructor-led/singapore</path>
 		<metatitle>ITIL Foundation Training in Singapore | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Singapore and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/dubai</path>
+		<path>itil-foundation-training-instructor-led/dubai</path>
 		<metatitle>ITIL Foundation Training in Dubai | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Dubai and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/abu-dhabi</path>
+		<path>itil-foundation-training-instructor-led/abu-dhabi</path>
 		<metatitle>ITIL Foundation Training in Abu Dhabi | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Abu Dhabi and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/hyderabad</path>
+		<path>itil-foundation-training-instructor-led/hyderabad</path>
 		<metatitle>ITIL Foundation Training in Hyderabad | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Enroll for ITIL foundation classes in Hyderabad. Certification Exam from PEOPLECERT. 100% Passing Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/bangalore</path>
+		<path>itil-foundation-training-instructor-led/bangalore</path>
 		<metatitle>ITIL Foundation Training in Bangalore | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Bangalore and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/sydney</path>
+		<path>itil-foundation-training-instructor-led/sydney</path>
 		<metatitle>ITIL Foundation Training in Sydney | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Sydney and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/melbourne</path>
+		<path>itil-foundation-training-instructor-led/melbourne</path>
 		<metatitle>ITIL Foundation Training in Melbourne | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Melbourne and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/auckland</path>
+		<path>itil-foundation-training-instructor-led/auckland</path>
 		<metatitle>ITIL Foundation Training in Auckland | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Auckland and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/jakarta</path>
+		<path>itil-foundation-training-instructor-led/jakarta</path>
 		<metatitle>ITIL Foundation Training in Jakarta | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Jakarta and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/riyadh</path>
+		<path>itil-foundation-training-instructor-led/riyadh</path>
 		<metatitle>ITIL Foundation Training in Riyadh | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Riyadh and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/jeddah</path>
+		<path>itil-foundation-training-instructor-led/jeddah</path>
 		<metatitle>ITIL Foundation Training in Jeddah | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Jeddah and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/atlanta</path>
+		<path>itil-foundation-training-instructor-led/atlanta</path>
 		<metatitle>ITIL Foundation Training in Atlanta | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Atlanta and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/chicago</path>
+		<path>itil-foundation-training-instructor-led/chicago</path>
 		<metatitle>ITIL Foundation Training in Chicago | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Chicago and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/dallas</path>
+		<path>itil-foundation-training-instructor-led/dallas</path>
 		<metatitle>ITIL Foundation Training in Dallas | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Dallas and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/houston</path>
+		<path>itil-foundation-training-instructor-led/houston</path>
 		<metatitle>ITIL Foundation Training in Houston | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Houston and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/new-york</path>
+		<path>itil-foundation-training-instructor-led/new-york</path>
 		<metatitle>ITIL Foundation Training in New York | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>GreyCampus provides ITIL 2 days classroom training in New York. 100% passing guarantee. 25 PMI PDUs.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/san-francisco</path>
+		<path>itil-foundation-training-instructor-led/san-francisco</path>
 		<metatitle>ITIL Foundation Training in San Francisco | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in San Francisco and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/washington-dc</path>
+		<path>itil-foundation-training-instructor-led/washington-dc</path>
 		<metatitle>ITIL Foundation Training in Washington DC | ITIL-F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Washington Dc and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>/</path>
+		<path/>
 		<metatitle>Training for Professional Certifications</metatitle>
 		<metadescription>GreyCampus is a leading provider of classroom and online training for PMP, PRINCE2, Six Sigma &amp; ITIL certification courses.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom</path>
+		<path>pmp-training-instructor-led</path>
 		<metatitle>PMP Certification Training  | Boot Camp for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training and 1 year online E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom</path>
+		<path>prince2-practitioner-training-instructor-led</path>
 		<metatitle>PRINCE2 Practitioner Training &amp; Certification |Classroom Workshop</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our classroom training and 1 year eLearning access. PEOPLECERT ATO. Print Copy of PRINCE2 Handbook &amp; Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom</path>
+		<path>prince2-foundation-training-instructor-led</path>
 		<metatitle>PRINCE2 Foundation Training &amp; Certification |Classroom Workshop</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our classroom training and 1 year eLearning access. PEOPLECERT ATO. Print Copy of PRINCE2 Handbook &amp; Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom</path>
+		<path>six-sigma-black-belt-training-instructor-led</path>
 		<metatitle>Six Sigma Black Belt Training &amp; Certification |Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt Training and Certification. This is classroom training with eLearning access and various learning tools.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom</path>
+		<path>six-sigma-green-belt-training-instructor-led</path>
 		<metatitle>Six Sigma Green Belt Training &amp; Certification |Exam Included</metatitle>
 		<metadescription>GreyCampus offers Six Sigma Green Belt classroom training. 100% passing guarantee. 3 days classroom training.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom</path>
+		<path>itil-foundation-training-instructor-led</path>
 		<metatitle>ITIL Foundation Certification |Classroom Training|ITIL Exam Included</metatitle>
 		<metadescription>Enroll for ITIL classroom training and certification program. Get 1 year free access to E-learning. Get an understanding of the ITIL® framework.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-online</path>
+		<path>pmp-training-online-self-learning</path>
 		<metatitle>PMP Online Training Course | Mock Exams, Practice Tests Included</metatitle>
 		<metadescription>Online self-learning program on Project Management Professional (PMP) Certification from Project Management Institute (PMI) USA. </metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-online</path>
+		<path>prince2-foundation-training-online-self-learning</path>
 		<metatitle>PRINCE2 Foundation Online Training Course | PRINCE2-F Exam Included</metatitle>
 		<metadescription>Pass PRINCE2 Foundation Exam in the first attempt. Get access to online modules, supporting documents and PRINCE2 Foundation manual.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-online</path>
+		<path>prince2-practitioner-online-self-learning</path>
 		<metatitle>PRINCE2 Practitioner Online Training Course|PRINCE2-P Exam Included</metatitle>
 		<metadescription>PRINCE2 Practitioner Online course accredited by PEOPLECERT. Your complete package includes everything you need to successfully pass the exam. </metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-online</path>
+		<path>six-sigma-green-belt-training-online-self-learning</path>
 		<metatitle>Six Sigma Green Belt Certification| Online Course|Training &amp; Exam</metatitle>
 		<metadescription>Six Sigma Green Belt online learning and certification program helps prepare well to get the certification.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-online</path>
+		<path>six-sigma-black-belt-training-online-self-learning</path>
 		<metatitle>Six Sigma Black Belt Certification| Online Course|Training &amp; Exam</metatitle>
 		<metadescription>Be a Certified Six Sigma Black Belt to make a career in quality management. Get 1 year free access to learning modules.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-belt-online</path>
+		<path>lean-six-sigma-green-belt-training-online-self-learning</path>
 		<metatitle>Lean Six Sigma Green Belt Certification| Online Course|Training &amp; Exam</metatitle>
 		<metadescription>Lean Six Sigma Green Belt online learning and certification program helps prepare well to get the certification.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-black-belt-online</path>
+		<path>lean-six-sigma-black-belt-training-online-self-learning</path>
 		<metatitle>Lean Six Sigma Black Belt Certification| Online Course|Training &amp; Exam</metatitle>
 		<metadescription>Be a Certified Lean Six Sigma Black Belt to make a career in quality management. Get 1 year free access to learning modules with the online course.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-online</path>
+		<path>itil-foundation-training-online-self-learning</path>
 		<metatitle>ITIL Foundation Online Training Course|ITIL F Certification Exam Included</metatitle>
 		<metadescription>The ITIL certification gives a scientific approach to the ITIL framework. The online course includes modules, simulated tests, flashcards and more.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-online</path>
+		<path>capm-training-online-self-learning</path>
 		<metatitle>CAPM Online Training Course | CAPM Exam Prep</metatitle>
 		<metadescription>Get CAPM certified with our 1 year of self eLearning course. PMI REP - 3871. 30 days instructor helpline. Dedicated support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>info</path>
-		<metatitle>GreyCampus | About US | Privacy Policy | Terms | Sitemap</metatitle>
-		<metadescription>GreyCampus provides training for working professionals. PMP, ITIL, Six Sigma and more.  Accredited training programs.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>itil-foundation-classroom/boston</path>
+		<path>itil-foundation-training-instructor-led/boston</path>
 		<metatitle>ITIL Foundation Training in Boston | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Boston and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/brisbane</path>
+		<path>itil-foundation-training-instructor-led/brisbane</path>
 		<metatitle>ITIL Foundation Training in Brisbane | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Brisbane and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/charlotte</path>
+		<path>itil-foundation-training-instructor-led/charlotte</path>
 		<metatitle>ITIL Foundation Training in Charlotte | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Charlotte and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/chennai</path>
+		<path>itil-foundation-training-instructor-led/chennai</path>
 		<metatitle>ITIL Foundation Training in Chennai | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL foundation training in Chennai. 3 days classroom training. GreyCampus is PMI REP (ID 3871).</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/kolkata</path>
+		<path>itil-foundation-training-instructor-led/kolkata</path>
 		<metatitle>ITIL Foundation Training in Kolkata | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Kolkata and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/london</path>
+		<path>itil-foundation-training-instructor-led/london</path>
 		<metatitle>ITIL Foundation Training in London | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in London and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/los-angeles</path>
+		<path>itil-foundation-training-instructor-led/los-angeles</path>
 		<metatitle>ITIL Foundation Training in Los Angeles | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Los Angeles and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/minneapolis</path>
+		<path>itil-foundation-training-instructor-led/minneapolis</path>
 		<metatitle>ITIL Foundation Training in Minneapolis | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Minneapolis and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/new-delhi</path>
+		<path>itil-foundation-training-instructor-led/new-delhi</path>
 		<metatitle>ITIL Foundation Training in New Delhi | ITIL F Certification Exam Included</metatitle>
 		<metadescription>ITIL Foundation. Training by GreyCampus. 3 days classroom training in Delhi. 100% passing guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/perth</path>
+		<path>itil-foundation-training-instructor-led/perth</path>
 		<metatitle>ITIL Foundation Training in Perth | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Perth and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/pune</path>
+		<path>itil-foundation-training-instructor-led/pune</path>
 		<metatitle>ITIL Foundation Training in Pune | ITIL F Certification Exam Included</metatitle>
 		<metadescription>GreyCampus provides ITIL foundation classes in Pune. 100% passing guarantee. Instant result. 2 days classroom training.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/raleigh</path>
+		<path>itil-foundation-training-instructor-led/raleigh</path>
 		<metatitle>ITIL Foundation Training in Raleigh | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Raleigh and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/reading</path>
+		<path>itil-foundation-training-instructor-led/reading</path>
 		<metatitle>ITIL Foundation Training in Reading | ITIL F Certification Exam Included</metatitle>
 		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Reading and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/wellington</path>
-		<metatitle>ITIL Foundation Training in Wellington | ITIL F Certification Exam Included</metatitle>
-		<metadescription>Get ITIL Foundation certified with our tailored ITIL Foundation classroom training in Wellington and 1 year eLearning access. ITIL Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>pmi-acp-online</path>
+		<path>pmi-acp-training-online-self-learning</path>
 		<metatitle>PMI ACP Online Training Course | PMI ACP Exam Prep</metatitle>
 		<metadescription>Get PMI ACP certified with our 1 year of self eLearning course. PMI REP - 3871. 30 days instructor helpline. Dedicated support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/brisbane</path>
+		<path>pmp-training-instructor-led/brisbane</path>
 		<metatitle>PMP Training in Brisbane | Boot Camp for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP classroom training in Brisbane and 1 year eLearning access. 35 Contact Hour Certificate. PMI REP 3871. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/chennai</path>
+		<path>pmp-training-instructor-led/chennai</path>
 		<metatitle>PMP Training in Chennai | Boot Camp for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus provides PMP boot camp in Chennai. 3 days classroom training. 35 Contact Hours Certificate.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/kolkata</path>
+		<path>pmp-training-instructor-led/kolkata</path>
 		<metatitle>PMP Training in Kolkata | Boot Camp for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP classroom training in Kolkata and 1 year eLearning access. 35 Contact Hour Certificate. PMI REP 3871. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/new-delhi</path>
+		<path>pmp-training-instructor-led/new-delhi</path>
 		<metatitle>PMP Training in New Delhi | Boot Camp for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP classroom training in New Delhi and 1 year eLearning access. 35 Contact Hour Certificate. PMI REP 3871. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/pune</path>
+		<path>pmp-training-instructor-led/pune</path>
 		<metatitle>PMP Training in Pune | Boot Camp for PMP Exam Prep</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP classroom training in Pune and 1 year eLearning access. 35 Contact Hour Certificate. PMI REP 3871. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/auckland</path>
+		<path>prince2-foundation-training-instructor-led/auckland</path>
 		<metatitle>PRINCE2 Foundation Training Auckland | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Auckland and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/bangalore</path>
+		<path>prince2-foundation-training-instructor-led/bangalore</path>
 		<metatitle>PRINCE2 Foundation Training Bangalore | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Bangalore and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/brisbane</path>
+		<path>prince2-foundation-training-instructor-led/brisbane</path>
 		<metatitle>PRINCE2 Foundation Training Brisbane | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Brisbane and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/chennai</path>
+		<path>prince2-foundation-training-instructor-led/chennai</path>
 		<metatitle>PRINCE2 Foundation Training Chennai | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Chennai and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/dublin</path>
-		<metatitle>PRINCE2 Foundation Training Dublin | PRINCE2 Certification Exam Included</metatitle>
-		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Dublin and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>prince2-foundation-classroom/edinburg</path>
-		<metatitle>PRINCE2 Foundation Training Edinburg | PRINCE2 Certification Exam Included</metatitle>
-		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Edinburg and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>prince2-foundation-classroom/glasgow</path>
-		<metatitle>PRINCE2 Foundation Training Glasgow | PRINCE2 Certification Exam Included</metatitle>
-		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Glasgow and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>prince2-foundation-classroom/hyderabad</path>
+		<path>prince2-foundation-training-instructor-led/hyderabad</path>
 		<metatitle>PRINCE2 Foundation Training Hyderabad | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Hyderabad and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/kolkata</path>
+		<path>prince2-foundation-training-instructor-led/kolkata</path>
 		<metatitle>PRINCE2 Foundation Training Kolkata | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Kolkata and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/london</path>
+		<path>prince2-foundation-training-instructor-led/london</path>
 		<metatitle>PRINCE2 Foundation Training London | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>GreyCampus provides Prince2 Foundation Course. 3 days classroom training. Access to e-learning for 1 year.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/melbourne</path>
+		<path>prince2-foundation-training-instructor-led/melbourne</path>
 		<metatitle>PRINCE2 Foundation Training Melbourne | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Melbourne and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/mumbai</path>
+		<path>prince2-foundation-training-instructor-led/mumbai</path>
 		<metatitle>PRINCE2 Foundation Training Mumbai | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>GreyCampus provides Prince2 Foundation 2days classroom training in Mumbai. 180+ Flash cards.1 year e learning access.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/new-delhi</path>
+		<path>prince2-foundation-training-instructor-led/new-delhi</path>
 		<metatitle>PRINCE2 Foundation Training New Delhi | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in New Delhi and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/perth</path>
+		<path>prince2-foundation-training-instructor-led/perth</path>
 		<metatitle>PRINCE2 Foundation Training Perth | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Perth and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/pune</path>
+		<path>prince2-foundation-training-instructor-led/pune</path>
 		<metatitle>PRINCE2 Foundation Training Pune | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Pune and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/reading</path>
+		<path>prince2-foundation-training-instructor-led/reading</path>
 		<metatitle>PRINCE2 Foundation Training Reading | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Reading and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/sydney</path>
+		<path>prince2-foundation-training-instructor-led/sydney</path>
 		<metatitle>PRINCE2 Foundation Training Sydney | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Sydney and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-classroom/wellington</path>
-		<metatitle>PRINCE2 Foundation Training Wellington | PRINCE2 Certification Exam Included</metatitle>
-		<metadescription>Get PRINCE2 Foundation certified with our tailored PRINCE2 Foundation classroom training in Wellington and 1 year eLearning access. PRINCE2 Foundation certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>prince2-practitioner-classroom/auckland</path>
+		<path>prince2-practitioner-training-instructor-led/auckland</path>
 		<metatitle>PRINCE2 Practitioner Training Auckland | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Auckland and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/bangalore</path>
+		<path>prince2-practitioner-training-instructor-led/bangalore</path>
 		<metatitle>PRINCE2 Practitioner Training Bangalore | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Bangalore and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/brisbane</path>
+		<path>prince2-practitioner-training-instructor-led/brisbane</path>
 		<metatitle>PRINCE2 Practitioner Training Brisbane | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Brisbane and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/chennai</path>
+		<path>prince2-practitioner-training-instructor-led/chennai</path>
 		<metatitle>PRINCE2 Practitioner Training Chennai | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Chennai and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/edinburg</path>
-		<metatitle>PRINCE2 Practitioner Training Edinburg | PRINCE2 Certification Exam Included</metatitle>
-		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Edinburg and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>prince2-practitioner-classroom/glasgow</path>
-		<metatitle>PRINCE2 Practitioner Training Glasgow | PRINCE2 Certification Exam Included</metatitle>
-		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Glasgow and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>prince2-practitioner-classroom/hyderabad</path>
+		<path>prince2-practitioner-training-instructor-led/hyderabad</path>
 		<metatitle>PRINCE2 Practitioner Training Hyderabad | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Hyderabad and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/kolkata</path>
+		<path>prince2-practitioner-training-instructor-led/kolkata</path>
 		<metatitle>PRINCE2 Practitioner Training Kolkata | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Kolkata and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/london</path>
+		<path>prince2-practitioner-training-instructor-led/london</path>
 		<metatitle>PRINCE2 Practitioner Training London | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in London and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/melbourne</path>
+		<path>prince2-practitioner-training-instructor-led/melbourne</path>
 		<metatitle>PRINCE2 Practitioner Training Melbourne | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Melbourne and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/mumbai</path>
+		<path>prince2-practitioner-training-instructor-led/mumbai</path>
 		<metatitle>PRINCE2 Practitioner Training Mumbai | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Mumbai and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/new-delhi</path>
+		<path>prince2-practitioner-training-instructor-led/new-delhi</path>
 		<metatitle>PRINCE2 Practitioner Training New Delhi | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in New Delhi and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/perth</path>
+		<path>prince2-practitioner-training-instructor-led/perth</path>
 		<metatitle>PRINCE2 Practitioner Training Perth | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Perth and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/pune</path>
+		<path>prince2-practitioner-training-instructor-led/pune</path>
 		<metatitle>PRINCE2 Practitioner Training Pune | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Pune and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/reading</path>
+		<path>prince2-practitioner-training-instructor-led/reading</path>
 		<metatitle>PRINCE2 Practitioner Training Reading | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Reading and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/sydney</path>
+		<path>prince2-practitioner-training-instructor-led/sydney</path>
 		<metatitle>PRINCE2 Practitioner Training Sydney | PRINCE2 Certification Exam Included</metatitle>
 		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Sydney and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-practitioner-classroom/wellington</path>
-		<metatitle>PRINCE2 Practitioner Training Wellington | PRINCE2 Certification Exam Included</metatitle>
-		<metadescription>Get PRINCE2 Practitioner certified with our tailored PRINCE2 Practitioner classroom training in Wellington and 1 year eLearning access. PRINCE2 Pratitioner certification exam included. PEOPLECERT ATO. 100% money back guarantee.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>six-sigma-black-belt-classroom/atlanta</path>
+		<path>six-sigma-black-belt-training-instructor-led/atlanta</path>
 		<metatitle>Six Sigma Black Belt Training Atlanta | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Atlanta and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/bangalore</path>
+		<path>six-sigma-black-belt-training-instructor-led/bangalore</path>
 		<metatitle>Six Sigma Black Belt Training Bangalore | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Bangalore and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/boston</path>
+		<path>six-sigma-black-belt-training-instructor-led/boston</path>
 		<metatitle>Six Sigma Black Belt Training Boston | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Boston and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/brisbane</path>
+		<path>six-sigma-black-belt-training-instructor-led/brisbane</path>
 		<metatitle>Six Sigma Black Belt Training Brisbane | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Brisbane and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/charlotte</path>
+		<path>six-sigma-black-belt-training-instructor-led/charlotte</path>
 		<metatitle>Six Sigma Black Belt Training Charlotte | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Charlotte and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/chennai</path>
+		<path>six-sigma-black-belt-training-instructor-led/chennai</path>
 		<metatitle>Six Sigma Black Belt Training Chennai | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Chennai and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/chicago</path>
+		<path>six-sigma-black-belt-training-instructor-led/chicago</path>
 		<metatitle>Six Sigma Black Belt Training Chicago | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Chicago and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/dallas</path>
+		<path>six-sigma-black-belt-training-instructor-led/dallas</path>
 		<metatitle>Six Sigma Black Belt Training Dallas | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Dallas and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/houston</path>
+		<path>six-sigma-black-belt-training-instructor-led/houston</path>
 		<metatitle>Six Sigma Black Belt Training Houston | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Houston and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/hyderabad</path>
+		<path>six-sigma-black-belt-training-instructor-led/hyderabad</path>
 		<metatitle>Six Sigma Black Belt Training Hyderabad | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Hyderabad and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/kolkata</path>
+		<path>six-sigma-black-belt-training-instructor-led/kolkata</path>
 		<metatitle>Six Sigma Black Belt Training Kolkata | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Kolkata and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/los-angeles</path>
+		<path>six-sigma-black-belt-training-instructor-led/los-angeles</path>
 		<metatitle>Six Sigma Black Belt Training Los Angeles | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Los Angeles and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/melbourne</path>
+		<path>six-sigma-black-belt-training-instructor-led/melbourne</path>
 		<metatitle>Six Sigma Black Belt Training Melbourne | SSBB Certification Exam Included</metatitle>
 		<metadescription>GreyCampus provides Six Sigma Black Belt classroom training in Melbourne. Accredited by PEOPLECERT.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/minneapolis</path>
+		<path>six-sigma-black-belt-training-instructor-led/minneapolis</path>
 		<metatitle>Six Sigma Black Belt Training Minneapolis | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Minneapolis and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/mumbai</path>
+		<path>six-sigma-black-belt-training-instructor-led/mumbai</path>
 		<metatitle>Six Sigma Black Belt Training Mumbai | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Mumbai and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/new-delhi</path>
+		<path>six-sigma-black-belt-training-instructor-led/new-delhi</path>
 		<metatitle>Six Sigma Black Belt Training New Delhi | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in New Delhi and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/new-york</path>
+		<path>six-sigma-black-belt-training-instructor-led/new-york</path>
 		<metatitle>Six Sigma Black Belt Training New York | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in New York and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/perth</path>
+		<path>six-sigma-black-belt-training-instructor-led/perth</path>
 		<metatitle>Six Sigma Black Belt Training Perth | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Perth and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/pune</path>
+		<path>six-sigma-black-belt-training-instructor-led/pune</path>
 		<metatitle>Six Sigma Black Belt Training Pune | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Pune and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/raleigh</path>
+		<path>six-sigma-black-belt-training-instructor-led/raleigh</path>
 		<metatitle>Six Sigma Black Belt Training Raleigh | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Raleigh and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/san-francisco</path>
+		<path>six-sigma-black-belt-training-instructor-led/san-francisco</path>
 		<metatitle>Six Sigma Black Belt Training San Francisco | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in San Francisco and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/sydney</path>
+		<path>six-sigma-black-belt-training-instructor-led/sydney</path>
 		<metatitle>Six Sigma Black Belt Training Sydney | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Sydney and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/washington-dc</path>
+		<path>six-sigma-black-belt-training-instructor-led/washington-dc</path>
 		<metatitle>Six Sigma Black Belt Training Washington Dc | SSBB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our tailored SSBB classroom training in Washington Dc and 1 year eLearning access. SSBB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/abu-dhabi</path>
+		<path>six-sigma-green-belt-training-instructor-led/abu-dhabi</path>
 		<metatitle>Six Sigma Green Belt Training Abu Dhabi | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Abu Dhabi and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/atlanta</path>
+		<path>six-sigma-green-belt-training-instructor-led/atlanta</path>
 		<metatitle>Six Sigma Green Belt Training Atlanta | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Atlanta and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/austin</path>
+		<path>six-sigma-green-belt-training-instructor-led/austin</path>
 		<metatitle>Six Sigma Green Belt Training Austin | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Austin and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/bangalore</path>
+		<path>six-sigma-green-belt-training-instructor-led/bangalore</path>
 		<metatitle>Six Sigma Green Belt Training Bangalore | SSGB Certification Exam Included</metatitle>
 		<metadescription>Six Sigma Green Belt Training in Bangalore.  100% passing guarantee. Exam fee included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/boston</path>
+		<path>six-sigma-green-belt-training-instructor-led/boston</path>
 		<metatitle>Six Sigma Green Belt Training Boston | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Boston and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/brisbane</path>
+		<path>six-sigma-green-belt-training-instructor-led/brisbane</path>
 		<metatitle>Six Sigma Green Belt Training Brisbane | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Brisbane and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/charlotte</path>
+		<path>six-sigma-green-belt-training-instructor-led/charlotte</path>
 		<metatitle>Six Sigma Green Belt Training Charlotte | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Charlotte and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/chennai</path>
+		<path>six-sigma-green-belt-training-instructor-led/chennai</path>
 		<metatitle>Six Sigma Green Belt Training Chennai | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Chennai and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/chicago</path>
+		<path>six-sigma-green-belt-training-instructor-led/chicago</path>
 		<metatitle>Six Sigma Green Belt Training Chicago | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Chicago and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/dallas</path>
+		<path>six-sigma-green-belt-training-instructor-led/dallas</path>
 		<metatitle>Six Sigma Green Belt Training Dallas | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Dallas and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/dubai</path>
+		<path>six-sigma-green-belt-training-instructor-led/dubai</path>
 		<metatitle>Six Sigma Green Belt Training Dubai | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Dubai and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/houston</path>
+		<path>six-sigma-green-belt-training-instructor-led/houston</path>
 		<metatitle>Six Sigma Green Belt Training Houston | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Houston and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/hyderabad</path>
+		<path>six-sigma-green-belt-training-instructor-led/hyderabad</path>
 		<metatitle>Six Sigma Green Belt Training Hyderabad | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified. GreyCampus provides classroom training at Hyderabad. Get flashcards and tool kits.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/jakarta</path>
+		<path>six-sigma-green-belt-training-instructor-led/jakarta</path>
 		<metatitle>Six Sigma Green Belt Training Jakarta | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Jakarta and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/jeddah</path>
+		<path>six-sigma-green-belt-training-instructor-led/jeddah</path>
 		<metatitle>Six Sigma Green Belt Training Jeddah | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Jeddah and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/kolkata</path>
+		<path>six-sigma-green-belt-training-instructor-led/kolkata</path>
 		<metatitle>Six Sigma Green Belt Training Kolkata | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt Certification. Classroom training in Kolkata. 100% passing guarantee. 1 year access to e-learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/london</path>
+		<path>six-sigma-green-belt-training-instructor-led/london</path>
 		<metatitle>Six Sigma Green Belt Training London | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in London and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/los-angeles</path>
+		<path>six-sigma-green-belt-training-instructor-led/los-angeles</path>
 		<metatitle>Six Sigma Green Belt Training Los Angeles | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Los Angeles and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/melbourne</path>
+		<path>six-sigma-green-belt-training-instructor-led/melbourne</path>
 		<metatitle>Six Sigma Green Belt Training Melbourne | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Melbourne and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/minneapolis</path>
+		<path>six-sigma-green-belt-training-instructor-led/minneapolis</path>
 		<metatitle>Six Sigma Green Belt Training Minneapolis | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Minneapolis and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/mumbai</path>
+		<path>six-sigma-green-belt-training-instructor-led/mumbai</path>
 		<metatitle>Six Sigma Green Belt Training Mumbai | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Mumbai and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/new-delhi</path>
+		<path>six-sigma-green-belt-training-instructor-led/new-delhi</path>
 		<metatitle>Six Sigma Green Belt Training New Delhi | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in New Delhi and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/new-york</path>
+		<path>six-sigma-green-belt-training-instructor-led/new-york</path>
 		<metatitle>Six Sigma Green Belt Training New York | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in New York and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/perth</path>
+		<path>six-sigma-green-belt-training-instructor-led/perth</path>
 		<metatitle>Six Sigma Green Belt Training Perth | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Perth and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/raleigh</path>
+		<path>six-sigma-green-belt-training-instructor-led/raleigh</path>
 		<metatitle>Six Sigma Green Belt Training Raleigh | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Raleigh and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/riyadh</path>
+		<path>six-sigma-green-belt-training-instructor-led/riyadh</path>
 		<metatitle>Six Sigma Green Belt Training Riyadh | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Riyadh and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/san-francisco</path>
+		<path>six-sigma-green-belt-training-instructor-led/san-francisco</path>
 		<metatitle>Six Sigma Green Belt Training San Francisco | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in San Francisco and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/singapore</path>
+		<path>six-sigma-green-belt-training-instructor-led/singapore</path>
 		<metatitle>Six Sigma Green Belt Training Singapore | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Singapore and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/sydney</path>
+		<path>six-sigma-green-belt-training-instructor-led/sydney</path>
 		<metatitle>Six Sigma Green Belt Training Sydney | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Sydney and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/washington-dc</path>
+		<path>six-sigma-green-belt-training-instructor-led/washington-dc</path>
 		<metatitle>Six Sigma Green Belt Training Washington Dc | SSGB Certification Exam Included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified with our tailored SSGB classroom training in Washington Dc and 1 year eLearning access. SSGB certification exam included. Course follows ASQBoK. 100% money back guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>workshops</path>
-		<metatitle>GreyCampus Workshops | PMP, ITIL, Six Sigma, PRINCE2, CAPM, PMI ACP</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>ordernow</path>
-		<metatitle>GreyCampus | Payment</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>learn-spanish-in-classroom</path>
-		<metatitle>Beginnner spanish in the classroom</metatitle>
-		<metadescription>Read blog from GreyCampus on Learn Spanish in classroom. Know the reasons to learn Spanish and how it will help you.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>pmp-live-online</path>
-		<metatitle>Project Management Professional Online classroom training | PMP Certfication Online</metatitle>
-		<metadescription>Instructor led live online training by GreyCampus. 3 days PMP Training. 100% Money Back guarantee. Experienced trainers.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>python-programming-live-online</path>
-		<metatitle>Advanced Python Programming Training &amp; Certification | Instructor Led Online Classes</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>pdu-packs</path>
-		<metatitle>Earn PMI PDUs with pre-approved category A Online Courses</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>corporate-training</path>
-		<metatitle>Corporate Training | PMP, Six Sigma, ITIL, PRINCE2, Python, Big Data</metatitle>
-		<metadescription>GreyCampus offers on-demand training program for corporate using Online and Classroom training methodologies.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>pmp-classroom/doha</path>
+		<path>pmp-training-instructor-led/doha</path>
 		<metatitle>PMP Certification Training in Doha | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in Doha instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/miami</path>
+		<path>pmp-training-instructor-led/miami</path>
 		<metatitle>PMP Certification Training in Miami | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in Miami instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/tampa</path>
+		<path>pmp-training-instructor-led/tampa</path>
 		<metatitle>PMP Certification Training in Tampa | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in Tampa instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-classroom/perth</path>
+		<path>capm-training-instructor-led/perth</path>
 		<metatitle>CAPM Certification Training in Perth | Boot Camp Training for CAPM Exam Prep</metatitle>
 		<metadescription>GreyCampus offers CAPM Classroom training in Perth instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/austin</path>
+		<path>pmp-training-instructor-led/austin</path>
 		<metatitle>PMP Certification Training in Austin | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in Austin instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/dammam</path>
+		<path>pmp-training-instructor-led/dammam</path>
 		<metatitle>PMP Certification Training in Dammam | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in Dammam instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/london</path>
+		<path>pmp-training-instructor-led/london</path>
 		<metatitle>PMP Certification Training in London | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in London instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-classroom/london</path>
+		<path>capm-training-instructor-led/london</path>
 		<metatitle>CAPM Certification Training in London | Boot Camp Training for CAPM Exam Prep</metatitle>
 		<metadescription>GreyCampus offers CAPM Classroom training in London instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-classroom/sydney</path>
+		<path>capm-training-instructor-led/sydney</path>
 		<metatitle>CAPM Certification Training in Sydney | Boot Camp Training for CAPM Exam Prep</metatitle>
 		<metadescription>GreyCampus offers CAPM Classroom training in Sydney instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/orlando</path>
+		<path>pmp-training-instructor-led/orlando</path>
 		<metatitle>PMP Certification Training in Orlando | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in Orlando instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-classroom</path>
+		<path>capm-training-instructor-led</path>
 		<metatitle>CAPM Certification Training | Boot Camp Training for CAPM Exam Prep</metatitle>
 		<metadescription>GreyCampus offers CAPM Classroom training instructed by experienced trainers. Participants get 1 year access for Online Self learning, Tool kits, Flash cards.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-classroom/brisbane</path>
+		<path>capm-training-instructor-led/brisbane</path>
 		<metatitle>CAPM Certification Training in Brisbane | Boot Camp Training for CAPM Exam Prep</metatitle>
 		<metadescription>GreyCampus offers CAPM Classroom training in Brisbane instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-classroom/melbourne</path>
+		<path>capm-training-instructor-led/melbourne</path>
 		<metatitle>CAPM Certification Training in Melbourne | Boot Camp Training for CAPM Exam Prep</metatitle>
 		<metadescription>GreyCampus offers CAPM Classroom training in Melbourne instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/jacksonville</path>
+		<path>pmp-training-instructor-led/jacksonville</path>
 		<metatitle>PMP Certification Training in Jacksonville | Boot Camp Training for PMP Exam Prep</metatitle>
 		<metadescription>GreyCampus offers PMP Classroom training in Jacksonville instructed by experienced trainers. Participants get 1 year access for Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/miami</path>
+		<path>itil-foundation-training-instructor-led/miami</path>
 		<metatitle>ITIL Foundation Training in Miami | ITIL-F Certification exam included</metatitle>
 		<metadescription>Enroll for ITIL Foundation Classes in Miami. Get Certification exam from PEOPLECERT. 100% passing Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/tampa</path>
+		<path>itil-foundation-training-instructor-led/tampa</path>
 		<metatitle>ITIL Foundation Training in Tampa | ITIL-F Certification exam included</metatitle>
 		<metadescription>Enroll for ITIL Foundation Classes in Tampa. Get Certification exam from PEOPLECERT. 100% passing Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>certified-scrum-master-classroom</path>
+		<path>csm-training-instructor-led</path>
 		<metatitle>Scrum Master training | CSM certification</metatitle>
 		<metadescription>GreyCampus provides 2 days classroom training for Certified scrum master. The course includes 16 PMI PDUs, Simulation exams, tools needed for scrum.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/austin</path>
+		<path>itil-foundation-training-instructor-led/austin</path>
 		<metatitle>ITIL Foundation Training in Austin | ITIL-F Certification exam included</metatitle>
 		<metadescription>Enroll for ITIL Foundation Classes in Austin. Get Certification exam from PEOPLECERT. 100% passing Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/orlando</path>
+		<path>itil-foundation-training-instructor-led/orlando</path>
 		<metatitle>ITIL Foundation Training in Orlando | ITIL-F Certification exam included</metatitle>
 		<metadescription>Enroll for ITIL Foundation Classes in Orlando. Get Certification exam from PEOPLECERT. 100% passing Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-black-belt-classroom</path>
+		<path>lean-six-sigma-black-belt-instructor-led</path>
 		<metatitle>Lean Six Sigma Black Belt training | Lean Six Sigma Certification</metatitle>
 		<metadescription>Get GreyCampus certified Lean Six Sigma Black Belt by attending Classroom training with additional 1 year access to Online Self Learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/miami</path>
+		<path>six-sigma-black-belt-training-instructor-led/miami</path>
 		<metatitle>Six Sigma Black Belt Training Miami | SSBB Certification exam included</metatitle>
 		<metadescription>Get GreyCampus Six Sigma Black Belt certified with our SSBB classroom training in Miami with 1 year access to Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/tampa</path>
+		<path>six-sigma-black-belt-training-instructor-led/tampa</path>
 		<metatitle>Six Sigma Black Belt Training Tampa | SSBB Certification exam included</metatitle>
 		<metadescription>Get GreyCampus Six Sigma Black Belt certified with our SSBB classroom training in Tampa with 1 year access to Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/miami</path>
+		<path>six-sigma-green-belt-training-instructor-led/miami</path>
 		<metatitle>Six Sigma Green Belt Training Miami | SSGB Certification exam included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified. GreyCampus provides classroom training at Miami. Get flashcards and tool kits.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/tampa</path>
+		<path>six-sigma-green-belt-training-instructor-led/tampa</path>
 		<metatitle>Six Sigma Green Belt Training Tampa | SSGB Certification exam included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified. GreyCampus provides classroom training at Tampa. Get flashcards and tool kits.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/austin</path>
+		<path>six-sigma-black-belt-training-instructor-led/austin</path>
 		<metatitle>Six Sigma Black Belt Training Austin | SSBB Certification exam included</metatitle>
 		<metadescription>Get GreyCampus Six Sigma Black Belt certified with our SSBB classroom training in Austin with 1 year access to Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/jacksonville</path>
+		<path>itil-foundation-training-instructor-led/jacksonville</path>
 		<metatitle>ITIL Foundation Training in Jacksonville | ITIL-F Certification exam included</metatitle>
 		<metadescription>Enroll for ITIL Foundation Classes in Jacksonville. Get Certification exam from PEOPLECERT. 100% passing Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/orlando</path>
+		<path>six-sigma-black-belt-training-instructor-led/orlando</path>
 		<metatitle>Six Sigma Black Belt Training Orlando | SSBB Certification exam included</metatitle>
 		<metadescription>Get GreyCampus Six Sigma Black Belt certified with our SSBB classroom training in Orlando with 1 year access to Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/orlando</path>
+		<path>six-sigma-green-belt-training-instructor-led/orlando</path>
 		<metatitle>Six Sigma Green Belt Training Orlando | SSGB Certification exam included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified. GreyCampus provides classroom training at Orlando. Get flashcards and tool kits.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>certified-scrum-master-classroom/sydney</path>
+		<path>csm-training-instructor-led/sydney</path>
 		<metatitle>Scrum Master training in Sydney | CSM certification</metatitle>
 		<metadescription>GreyCampus provides 2 days classroom training in Sydney for Certified scrum master. The course includes 16 PMI PDUs, Simulation exams &amp; tools needed for scrum.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>certified-scrum-master-classroom/melbourne</path>
+		<path>csm-training-instructor-led/melbourne</path>
 		<metatitle>Scrum Master training in Melbourne | CSM certification</metatitle>
 		<metadescription>GreyCampus provides 2 days classroom training in Melbourne for Certified scrum master. Course includes 16 PMI PDUs, Simulation exams &amp; tools needed for scrum.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/jacksonville</path>
+		<path>six-sigma-black-belt-training-instructor-led/jacksonville</path>
 		<metatitle>Six Sigma Black Belt Training Jacksonville | SSBB Certification exam included</metatitle>
 		<metadescription>Get GreyCampus Six Sigma Black Belt certified with our SSBB classroom training in Jacksonville with 1 year access to Online Self learning.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/jacksonville</path>
+		<path>six-sigma-green-belt-training-instructor-led/jacksonville</path>
 		<metatitle>Six Sigma Green Belt Training Jacksonville | SSGB Certification exam included</metatitle>
 		<metadescription>Get Six Sigma Green Belt certified. GreyCampus provides classroom training at Jacksonville. Get flashcards and tool kits.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/mumbai</path>
+		<path>itil-foundation-training-instructor-led/mumbai</path>
 		<metatitle>ITIL Foundation Training in Mumbai | ITIL-F Certification exam included</metatitle>
 		<metadescription>Enroll for ITIL Foundation Classes in Mumbai. Get Certification exam from PEOPLECERT. 100% passing Guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/pune</path>
+		<path>six-sigma-green-belt-training-instructor-led/pune</path>
 		<metatitle>Six Sigma Green Belt Training Pune | SSGB Certification exam included</metatitle>
 		<metadescription>Get Six Sigma Green Belt Certified from GreyCampus. Classroom training in Pune. 100% passing guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>service-management-online</path>
-		<metatitle>Service Management Online Training</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>minitab-online</path>
-		<metatitle>Minitab Online Training</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>basic-python-programming-live-online</path>
-		<metatitle>Basic Python Programming Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>web-development-using-python-and-django-live-online</path>
-		<metatitle>Web Development using Python and Django | Live Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>database-programming-using-python-live-online</path>
-		<metatitle>Database Programming using Python | Live Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>scientific-computing-using-scipy-live-online</path>
-		<metatitle>Scientific Computing using Scipy | Live Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>hadoop-fundamentals-live-online</path>
-		<metatitle>Hadoop Fundamentals Live Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>hadoop-datastorage-and-data-processing-live-online</path>
-		<metatitle>Hadoop Data Storage &amp; Data Processing | Live Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>hadoop-programming-live-online</path>
-		<metatitle>Hadoop Programming Live Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>r-and-data-visualization-live-online</path>
-		<metatitle>R Analytics and Data Visualization Online Training &amp; Certification</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>itil-foundation-live-online</path>
-		<metatitle>ITIL Foundation Instructor led online training | 2 Day course | Exam Included</metatitle>
-		<status>1</status>
-	</record>
-	<record>
-		<path>big-data-and-hadoop-developer-classroom</path>
+		<path>big-data-hadoop-developer-training-instructor-led</path>
 		<metatitle>Big Data and Hadoop Developer Classroom Training | MapReduce, Hive, Pig</metatitle>
 		<status>1</status>
 	</record>
 	<record>
-		<path>big-data-and-hadoop-developer-classroom/singapore</path>
+		<path>big-data-hadoop-developer-training-instructor-led/singapore</path>
 		<metatitle>Big Data and Hadoop Developer Classroom Training in Singapore</metatitle>
 		<status>1</status>
 	</record>
 	<record>
-		<path>capm-classroom/singapore</path>
+		<path>capm-training-instructor-led/singapore</path>
 		<metatitle>CAPM Certification Training in Singapore | 4 Day Boot Camp Course</metatitle>
 		<status>1</status>
 	</record>
 	<record>
-		<path>itil-foundation-classroom/manila</path>
+		<path>itil-foundation-training-instructor-led/manila</path>
 		<metatitle>ITIL Foundation Certification Training in Manila | Boot Camp Course</metatitle>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/denver</path>
+		<path>pmp-training-instructor-led/denver</path>
 		<metatitle>PMP Boot Camp Training in Denver| 4/3 Days Classroom Workshop</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Adelaide and 1 Year E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/detroit</path>
+		<path>pmp-training-instructor-led/detroit</path>
 		<metatitle>PMP Boot Camp Training in Detroit| 4/3 Days Classroom Workshop</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Adelaide and 1 Year E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/kuala-lumpur</path>
+		<path>pmp-training-instructor-led/kuala-lumpur</path>
 		<metatitle>PMP Boot Camp Training in Kuala Lumpur| 4/3 Days Classroom Workshop</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Adelaide and 1 Year E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/manila</path>
+		<path>pmp-training-instructor-led/manila</path>
 		<metatitle>PMP Boot Camp Training in Manila| 4/3 Days Classroom Workshop</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Adelaide and 1 Year E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-classroom/philadelphia</path>
+		<path>pmp-training-instructor-led/philadelphia</path>
 		<metatitle>PMP Boot Camp Training in Philadelphia| 4/3 Days Classroom Workshop</metatitle>
 		<metadescription>Get PMP certified with our tailored PMP boot camp training in Adelaide and 1 Year E-Learning access. Complete PMBoK5 Covered. PMI REP - 3871. 100% money back - pass guarantee.</metadescription>
 		<status>1</status>
@@ -1367,55 +1220,55 @@
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/abu-dhabi</path>
+		<path>six-sigma-black-belt-training-instructor-led/abu-dhabi</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Abu Dhabi | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Abu Dhabi and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/dubai</path>
+		<path>six-sigma-black-belt-training-instructor-led/dubai</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Dubai | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Dubai and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/jakarta</path>
+		<path>six-sigma-black-belt-training-instructor-led/jakarta</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Jakarta | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Jakarta and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/jeddah</path>
+		<path>six-sigma-black-belt-training-instructor-led/jeddah</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Jeddah | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Jeddah and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/manila</path>
+		<path>six-sigma-black-belt-training-instructor-led/manila</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Manila | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Manila and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/riyadh</path>
+		<path>six-sigma-black-belt-training-instructor-led/riyadh</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Riyadh | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Riyadh and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-classroom/singapore</path>
+		<path>six-sigma-black-belt-training-instructor-led/singapore</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Singapore | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Singapore and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-classroom/manila</path>
+		<path>six-sigma-green-belt-training-instructor-led/manila</path>
 		<metatitle>Six Sigma Black Belt Certification Training in Manila | SSBB Exam Included</metatitle>
 		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Manila and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-yellow-belt-online</path>
+		<path>six-sigma-yellow-belt-training-online-self-learning</path>
 		<metatitle>Six Sigma Yellow Belt Online Training &amp; Certification</metatitle>
 		<status>1</status>
 	</record>
