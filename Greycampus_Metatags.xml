@@ -265,7 +265,7 @@
 		<status>1</status>
 	</record>
 	<record>
-		<path/>
+		<path>/</path>
 		<metatitle>Training for Professional Certifications</metatitle>
 		<metadescription>GreyCampus is a leading provider of classroom and online training for PMP, PRINCE2, Six Sigma &amp; ITIL certification courses.</metadescription>
 		<status>1</status>
@@ -1270,6 +1270,69 @@
 	<record>
 		<path>six-sigma-yellow-belt-training-online-self-learning</path>
 		<metatitle>Six Sigma Yellow Belt Online Training &amp; Certification</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog</path>
+		<metatitle>Blog | Professional certification resources | PMP, ITIL, Six Sigma &amp; more</metatitle>
+		<metadescription>A dedicated blog for professional certifications across world. GreyCampus provides abundant resources on professional certification like PMP, Six Sigma, ITIL and more.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/big-data</path>
+		<metatitle>Blog | Big Data</metatitle>
+		<metadescription>A Big Data blog explaining right from the of big data to steps to become a big data developer, Tools and challenges of Big Data.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/it-service-management</path>
+		<metatitle>Blog | IT Service Management | ITIL</metatitle>
+		<metadescription>A Blog for IT Service Management. Gain knowledge regarding IT Service Management by following this blog.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/project-management</path>
+		<metatitle>Blog | Project Management | PMP, PRINCE2, PMI-ACP, CAPM</metatitle>
+		<metadescription>A well designed and developed blog for all the areas of project management like PMP, PRINCE2, PMI-ACP, CAPM.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/quality-management</path>
+		<metatitle>Blog | Quality Management | Six Sigma</metatitle>
+		<metadescription>The blog describing Six Sigma and various sectors in which six Sigma is helpful and how it benefits you and your organization.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>blog/workplace-tools</path>
+		<metatitle>Workplace tools</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>contact-us</path>
+		<metatitle>GreyCampus | Contact us</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>corporate-training</path>
+		<metatitle>Corporate Training | PMP, Six Sigma, ITIL, PRINCE2, Python, Big Data</metatitle>
+		<metadescription>GreyCampus offers on-demand training program for corporate using Online and Classroom training methodologies.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>pdu-packs</path>
+		<metatitle>Earn PMI PDUs with pre-approved category A Online Courses</metatitle>
+		<status>1</status>
+	</record>
+	<record>
+		<path>six-sigma-black-belt-training-instructor-led/manila</path>
+		<metatitle>Six Sigma Black Belt Certification Training in Manila | SSBB Exam Included</metatitle>
+		<metadescription>Get Six Sigma Black Belt certified with our boot camp training in Manila and 1 Year eLearning access. 100% pass guarantee. SSBB Certification Exam included.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>six-sigma-green-belt-training-instructor-led/manila</path>
+		<metatitle>Six Sigma Green Belt Training &amp; Certification |Exam Included</metatitle>
+		<metadescription>GreyCampus offers Six Sigma Green Belt classroom training. 100% passing guarantee. 3 days classroom training.</metadescription>
 		<status>1</status>
 	</record>
 </document>
