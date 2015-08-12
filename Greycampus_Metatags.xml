@@ -1335,4 +1335,484 @@
 		<metadescription>GreyCampus offers Six Sigma Green Belt classroom training. 100% passing guarantee. 3 days classroom training.</metadescription>
 		<status>1</status>
 	</record>
+	<record>
+		<path>opencampus</path>
+		<metatitle>OpenCampus | The largest resource library on professional certifications</metatitle>
+		<metadescription>Understand which certification is right for you, know the top certifications to propel your career, get tips from experts to excel in certification exams.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/what-is-pmp</path>
+		<metatitle>What is PMP (Project Management Professional)?</metatitle>
+		<metadescription>Project Management Professional (PMP) certification is an industry recognized credential for project managers.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/eligibility-criteria-and-structure-of-exam</path>
+		<metatitle>Eligibility criteria and structure of PMP exam
+</metatitle>
+		<metadescription>In order to be eligible for PMP Certification you need to have project management experience amd know about the structure of PMP Exam</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/applying-for-the-pmp-exam</path>
+		<metatitle>How to apply for PMP Certification Exam?</metatitle>
+		<metadescription>PMP application form is available in both online and printable PDF mode in PMI website (www.pmi.org). </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/how-to-prepare-for-the-exam</path>
+		<metatitle>How to prepare for the PMP Exam?</metatitle>
+		<metadescription>Know the strategy about how to prepare for the PMP Exam and crack it in one shot
+</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/type-of-questions-you-can-expect</path>
+		<metatitle>What sort of questions i can expect to see in PMP Exam</metatitle>
+		<metadescription>The type of questions expected can be known.The questions will test all your knowledge related to project management concepts.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/day-of-exam</path>
+		<metatitle>How to stay relaxed on the day of PMP Exam?</metatitle>
+		<metadescription>Here are some tips on how to stay relaxed on the day of exam.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/maintaining-your-pmp-certification</path>
+		<metatitle>How to maintain PMP Certification?
+</metatitle>
+		<metadescription>After receiving your certification, you must maintain it by attending CCR Programs.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/benefits-of-pmp-certification</path>
+		<metatitle>Benefits of PMP Certification</metatitle>
+		<metadescription>know the benefits of PMP Certification and the views expressed by PMP credential holders.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/cost-of-pmp-certification</path>
+		<metatitle>Cost structure of PMP exam</metatitle>
+		<metadescription>The cost structure for PMP exam varies based on the PMI membership status. The fee structure of PMP Certification exam is given in detail.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/project-management-professional/career-opportunities</path>
+		<metatitle>Carrer opportunities for PMP Certified Credentials?</metatitle>
+		<metadescription>The salary range for project managers across the world ranges from $160,409 - $91,109. Companies like IBM,Microsoft are hiring PMP Certified candidates.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-management/what-is-capm</path>
+		<metatitle>What is CAPM?</metatitle>
+		<metadescription>Certified Associate in Project Management (CAPM)® affirmation furnishes you with globally perceived undertaking administration certification PMP.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-management/benefits-of-capm-certification</path>
+		<metatitle>Advantages of CAPM Certification</metatitle>
+		<metadescription>There are multiple benefits by gaining CAPM Certification. Gain the certification and make your career in Project Management. </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-management/capm-eligibility-criteria</path>
+		<metatitle>What is the Eligibility Requirement to take up CAPM Certification
+</metatitle>
+		<metadescription>To be eligible for the PMP credential, you need to meet certain educational and professional experience requirements. </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-management/cost-of-capm-certification</path>
+		<metatitle>Cost structure of CAPM exam</metatitle>
+		<metadescription>The cost structure for PMP exam varies based on the PMI membership status. There are two modes of examination test type and price varies accordingly.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-management/how-to-apply-for-capm-exam</path>
+		<metatitle>Application Process for CAPM</metatitle>
+		<metadescription>Once you are confident that you are eligible for certifictaion fill the application form availaible in www.pmi.org site and take up the exam </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-management/how-to-prepare-for-the-exam</path>
+		<metatitle>Tips to prepare for CAPM Exam?</metatitle>
+		<metadescription>Know the strategy about how to prepare for the CAPM Exam and crack it in one shot
+</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-managementcareer-opportunities</path>
+		<metatitle>Job Opportunities avaialible for CAPM Certified Credential holders.</metatitle>
+		<metadescription>As per Payscale the salary range for CAPM Certified Candidates is Rs 406,000-Rs 1,075,000 for females and for males it is Rs 384,586-Rs.1077,226</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/certified-associate-in-project-management/structure-of-capm-exam</path>
+		<metatitle>What is the Exam Format for CAPM?
+</metatitle>
+		<metadescription>The CAPM Exam Comprises of 150 multiple choice questions. Out of these 150 questions 15 are considered as pretest questions</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/information-technology-infrastructure-library/what-is-itil</path>
+		<metatitle>What is ITIL?</metatitle>
+		<metadescription>Information Technology Infrastructure Library (ITIL) is the world's most widely used IT Service Management framework.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/information-technology-infrastructure-library/benefits-of-itil-certification</path>
+		<metatitle>Why does ITIL Certification matters?</metatitle>
+		<metadescription>The requirement for ITIL certified professionals is growing in many industries. ITIL best practices are very useful to manage the business effectively.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/information-technology-infrastructure-library/levels-of-itil-certification</path>
+		<metatitle>What are the Various Levels of ITIL Certification?</metatitle>
+		<metadescription>There are five levels of qualifications within the ITIL Qualification Scheme. By completing each level of certifications,you can gain credits and maintain your certification as well.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/information-technology-infrastructure-library/who-is-it-for</path>
+		<metatitle>Why ITIL Foundation Certification?</metatitle>
+		<metadescription>The purpose of the ITIL Foundation certificate is to certify that you have gained knowledge on the ITIL terminology and structure.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/information-technology-infrastructure-library/itil-examination-process</path>
+		<metatitle>What is the Exam process and pattern of the ITIL Exam?
+</metatitle>
+		<metadescription>The ITIL examination will be conducted by  PEOPLECERT and APMG International accredited Companies. Exam contains  multiple type questions containing 40 questions.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/information-technology-infrastructure-library/why-adopt-itil-framework</path>
+		<metatitle> Why adopt ITIL framework?</metatitle>
+		<metadescription>Consistent and repeatable process are key terms to improve the services.These  processes are covered in the ITIL Framework.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/information-technology-infrastructure-library/career-opportunities</path>
+		<metatitle>Carrer improvement with ITIL Certification</metatitle>
+		<metadescription>Thousands of companies and industries worldwide have adopted ITIL which include IBM, SONY, Toyota</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-green-belt/what-is-six-sigma</path>
+		<metatitle>Define Six Sigma?</metatitle>
+		<metadescription>Six Sigma is one of the most popular tools which is used in firms to eliminate the waste.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-green-belt/six-sigma-certification-levels</path>
+		<metatitle>Different Levels In Six Sigma?</metatitle>
+		<metadescription>There are five different levels in Six Sigma. Professionals can create a promising future for themselves by gaining this certification. </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-green-belt/who-is-it-for</path>
+		<metatitle>Who is right for Six Sigma Green Belt certification?
+</metatitle>
+		<metadescription>This certification is right for the candidates who are intrested in improving the process of business.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-green-belt/how-to-get-certified</path>
+		<metatitle>How to get certified in Six Sigma Green Belt?</metatitle>
+		<metadescription>There is no single body assigned to give Six Sigma certificate. Some of the Six sigma training and Certification providers are ASQ, GreyCampus etc.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-green-belt/roles-and-responsibilities-of-green-belt</path>
+		<metatitle>Roles and Responsibilities of Six Sigma Green Belt Professionals
+</metatitle>
+		<metadescription>Green Belts should have a clear idea of the overall process as they work with centralized project managers on delivering projects.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-green-belt/career-opportunities</path>
+		<metatitle>Carrer opportunities for SSGB Professionlas</metatitle>
+		<metadescription>Six Sigma Certification on your resume proves your analytical skills. Also, the highest salary range is $113.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-black-belt/what-is-six-sigma</path>
+		<metatitle>What is Six Sigma?</metatitle>
+		<metadescription>“Six Sigma is a strategy or a practice for eliminating defects in a project and there by providing methods to eliminate the defects.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-black-belt/six-sigma-certification-levels</path>
+		<metatitle>What are the Levels (Belts) availaible in  Six Sigma?</metatitle>
+		<metadescription>There are five different levels in Six Sigma which includes white belt, black belt, master black belt etc. </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-black-belt/importance-of-six-sigma-black-belt</path>
+		<metatitle>Explain the significance of Six Sigma Black Belt and its benefits
+</metatitle>
+		<metadescription>The role of black belt varies from other belts. they should be able to manage the whole project team.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-black-belt/who-is-it-for</path>
+		<metatitle>Who is right for Six Sigma Black Belt certification?
+</metatitle>
+		<metadescription>Professionals who are passionate about the quality management can take up this Certifciation. Pre Requisities of the certiication can also be known.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-black-belt/how-to-get-certified</path>
+		<metatitle>Who will provide Six Sigma Certification?</metatitle>
+		<metadescription>There is no single body assigned to give Six Sigma certificate. Some of the Six sigma training and Certification providers are ASQ, GreyCampus etc.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-black-belt/expectations-from-certified-professionals</path>
+		<metatitle>What is the role of Six Sigma Black Belt Professionals in projects?</metatitle>
+		<metadescription>Six Sigma Black Belts should be able to play a role of project leaders projects. They are responsible to execute specific projects without degrading the quality of the project.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/six-sigma-black-belt/career-opportunities</path>
+		<metatitle>Carrer opportunities for Six Sigma Black Belt Certified Professionlas</metatitle>
+		<metadescription>SSBB Professionals have profitable career path ranging from Business Analysts to Process Improvement experts in the organizations.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/what-is-big-data</path>
+		<metatitle>What is Big Data?</metatitle>
+		<metadescription>Big Data is an all-inclusive term which refers to the voluminous amount of structured and unstructured data that is  difficult to process using traditional database.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/benefits-of-certification</path>
+		<metatitle>Why Big Data Certification matters?</metatitle>
+		<metadescription>Today, Organisations are hiring Big Data professionals to improve efficiency of the projectPercentsge with Big Data Initiatives is 70% in India.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/what-is-hadoop</path>
+		<metatitle>What is Hadoop?</metatitle>
+		<metadescription>Hadoop is 100% open source Java‐based programming framework that supports the processing of large data sets in a distributed computing environment.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/use-cases-of-big-data</path>
+		<metatitle>What are the Use Cases of Big Data</metatitle>
+		<metadescription>The use cases of Big Data includes, Big Data Exploration, Operational Analysis, Security intelligence criteria etc </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/applications-of-big-data</path>
+		<metatitle>Applications of Big Data</metatitle>
+		<metadescription>Big Data has Various Applications in Retail/consumer Service, Web and Digital media, telecommunications.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/various-job-roles</path>
+		<metatitle>Various job titles availaible for Big Data certified professionals</metatitle>
+		<metadescription>Job Roles availaible for Big Data certified Professionals are Hadoop Administrator, Big Data Manager.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/about-big-data-developer</path>
+		<metatitle>About Big Data Developer Certification</metatitle>
+		<metadescription>Big Data Developer is the one who loves programming. He/she needs to have a knowledge of core Java, SQL and any scripting language along with good interpersonal skills.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/big-data-developer/career-opportunities</path>
+		<metatitle>Employement Opportunities with Big Data Certification</metatitle>
+		<metadescription>Today, the job market is very lucrative for people with Hadoop skills. There are huge benefits of becoming a Big Data developer as there will ba huge increase in salary</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-foundation/what-is-prince-2</path>
+		<metatitle>What is PRINCE2?</metatitle>
+		<metadescription>PRojects In a Controlled environment (PRINCE2) is a methodology used in Project Management to improve Project management skills. It also helps in gaining an effective output.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-foundation/prince-2-certification-levels</path>
+		<metatitle>About PRINCE2 Certification levels </metatitle>
+		<metadescription>PRINCE2 Qualification constitutes different levels of Certification which includes PRiNCE2 Foundation, Practitioner, Professional and Agile.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-foundation/salient-features-of-prince-2-foundation</path>
+		<metatitle>What are the Salient Features of PRINCE2 Foundation</metatitle>
+		<metadescription>Know the Salient features of PRINCE2 Foundation certification.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-foundation/benefits-of-prince-2-foundation-certification</path>
+		<metatitle>Benefits of being PRINCE2 Foundation Certified Professional</metatitle>
+		<metadescription>Gaining the PRINCE2 Foundation Certification is very important for upcoming Project managers. This Certification increases the opportunities to work in project team.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-foundation/prince-2-foundation-exam-structure</path>
+		<metatitle>Exam Structure of PRINCE2 Foundation certification</metatitle>
+		<metadescription>The PRINCE2 Foundation exam will have objective type testing questions and it is conducted by PEOPLE CERT.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-foundation/tips-to-clear-the-exam</path>
+		<metatitle>Top Tips to clear PRINCE2 Foundation Exam?</metatitle>
+		<metadescription>It is not that easy to clear the PRINCE2 Foundation exam in first attempt. Follow  few tips which will make your exam day simpler.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-foundation/career-opportunities-for-prince-2-foundation</path>
+		<metatitle>What is the Maximum salary for PRINCE2 Certified Professional?</metatitle>
+		<metadescription> Companies like IBM,Microsoft, TCS, Wipro  are hiring PRINCE2 Foundation Certified candidates with a maximum salary of 6,12,256.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/what-is-prince-2</path>
+		<metatitle>Explain PRINCE2?</metatitle>
+		<metadescription>PRojects In a Controlled environment (PRINCE2) is a methodology used in Project Management to improve Project management skills. It also helps in gaining an effective output</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/prince-2-certification-levels</path>
+		<metatitle>Different Levels in PRINCE2?</metatitle>
+		<metadescription>PRINCE2 constitutes different levels of Certification which includes PRiNCE2 Foundation, Practitioner, Professional and Agile.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/salient-features-of-prince-2</path>
+		<metatitle>What are the Salient Features of PRINCE2</metatitle>
+		<metadescription>Know the Salient features of PRINCE2 Foundation certification.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/benefits-of-prince-2-practitioner-certification</path>
+		<metatitle>Why PRINCE2 Practitioner Certification?</metatitle>
+		<metadescription>Gaining  PRINCE2 Practitioner Certification will be  extremely beneficial for your career in the stream of Project Management.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/eligibility-criteria-for-prince-2-practitioner-exam</path>
+		<metatitle>Qualification requirement /criteria for PRINCE2  Practitioner Exam</metatitle>
+		<metadescription>In order to be eligible for PRINCE2 Practioner Certification Exam Candidate should be PRINCE2 Foundation Certified.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/prince-2-project-management-techniques</path>
+		<metatitle>What are the Project Management Techniques?</metatitle>
+		<metadescription> Know about the different Project Management Techniques used in PRINCE 2</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/prince-2-practitioner-exam-structure</path>
+		<metatitle>Structure of PRINCE2 Practitioner Exam</metatitle>
+		<metadescription>The PRINCE2 Practitioner exam will have objective type questions. Conducted by PEOPLE CERT and the duration is for two and half hours.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/tips-to-clear-the-prince2-practitioner-exam</path>
+		<metatitle>Top 3 tips to clear the PRINCE2 Practitioner exam in one shot</metatitle>
+		<metadescription>It is not that easy to clear the PRINCE2 Practitioner exam in first shot. Follow  few tips which will make your exam day simpler.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/prince-2-practitioner/career-opportunities-for-prince-2-practitioner</path>
+		<metatitle>What is the Average salary for PRINCE2 Practitioner?</metatitle>
+		<metadescription> Companies like IBM,Microsoft, TCS, Wipro  are hiring PRINCE2 Foundation Certified candidates. The Average Salary of a general Practitioner is Rs.518,512 per year.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/agile-certified-professional/what-is-pmi-acp</path>
+		<metatitle>What is PMI-ACP?</metatitle>
+		<metadescription>ACP is an acronym of Agile Certified Practitioner. This certification is provided by Project Management Institute PMI and hence it is PMI-ACP</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/agile-certified-professional/benefits-of-acp</path>
+		<metatitle>Advantages of gaining ACP Certification</metatitle>
+		<metadescription>Gaining a PMI Agile Certified Practitioner (ACP) Certification is a value added asset to your career in the field of Agile Project Management.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/agile-certified-professional/eligibility-criteria</path>
+		<metatitle>What are the Eligibility Requirement for PMI-ACP Certification Exam?</metatitle>
+		<metadescription>In order to be eligible for the PMI-ACP Certification you need to meet certain professional requirements</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/agile-certified-professional/cost-of-acp-certification</path>
+		<metatitle>Cost of ACP Certification?</metatitle>
+		<metadescription>The cost of ACP Certification will be determined by PMI Membership status and the examination delivery type mode you select. 
+</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/agile-certified-professional/how-to-apply-for-the-exam</path>
+		<metatitle>How to apply for PMI-ACP Exam?</metatitle>
+		<metadescription>Get a Clear idea on how to fill the apllication form when you attempt the ACP Certification Exam</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/agile-certified-professional/structure-of-acp-exam</path>
+		<metatitle>Question paper pattern for ACP Exam</metatitle>
+		<metadescription>The ACP Exam comprises of 120 multiple choice questions. Out of these 120 questions 20 are considered as pretest questions</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/agile-certified-professional/career-opportunities</path>
+		<metatitle>Various job roles availaible for ACP Certified Candidates</metatitle>
+		<metadescription>Career Opportunities for ACP Credentials is massive in number. Also, the number has increased compared to previous years. Get Certifed and step ahead in your career.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/what-is-big-data</path>
+		<metatitle>What is Big Data?</metatitle>
+		<metadescription>Big Data is a which refers to the vast amount of structured and unstructured data which is  difficult to process using traditional methods</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/benefits-of-becoming-a-big-data-professional</path>
+		<metatitle>Benefits of Hadoop Administration Certification</metatitle>
+		<metadescription>Organisations need skilled Hadoop professionals to improve the efficiency of the project. so the Percantage of hiring the Certified candidates increases.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/what-is-hadoop</path>
+		<metatitle>What is Hadoop?</metatitle>
+		<metadescription>Hadoop is 100% open source Java‐based programming framework that supports the processing of large data sets in a distributed computing environment.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/use-cases-of-big-data</path>
+		<metatitle>What are the use cases of Big Data</metatitle>
+		<metadescription>The use cases of Big Data includes, Big Data Exploration, Operational Analysis, Security intelligence criteria etc </metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/applications-of-big-data-in-various-industries</path>
+		<metatitle>Applications of Big Data</metatitle>
+		<metadescription>Big Data has Various Applications in Customer Service,Health and life sciences, finanace services etc</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/about-hadoop-administrator</path>
+		<metatitle>Hadoop Administrator is right for whom?</metatitle>
+		<metadescription>Big Data Administrator Certification is perfect for the aspirants who want to make their career in Big data Sector. A Hadoop Administrator will be capable to follow a strategy to preserve and store the data.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/eligibility-criteria-for-hadoop-administrator</path>
+		<metatitle>What is the Eligibility criteria to take up Hadoop Administrator?</metatitle>
+		<metadescription>To take up the certification candidate need to have basic knowledge on Linux Administration and Java Programming.</metadescription>
+		<status>1</status>
+	</record>
+	<record>
+		<path>opencampus/hadoop-administrator/career-opportunities-availaible-for-hadoop-administrator</path>
+		<metatitle>What is the maximum salary for Hadoop Administrator?</metatitle>
+		<metadescription>Career oppurtunities for Hadoop administrator are very huge in number.The maximun Salary for a certified Hadoop Certified Professional would be Rs.783,527 as per pay scale</metadescription>
+		<status>1</status>
+	</record>
 </document>
