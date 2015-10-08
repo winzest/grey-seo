@@ -1458,12 +1458,6 @@
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-black-belt-training-instructor-led/manila</path>
-		<metatitle>Six Sigma Black Belt Certification Training in Manila | SSBB Exam Included</metatitle>
-		<metadescription>Six Sigma Black Belt Training and Certification. Instructor led training in Manila with 1 year of eLearning access. Post training instructor helpline. 100% money back. 24/7 support.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
 		<path>six-sigma-black-belt-training-instructor-led/melbourne</path>
 		<metatitle>Six Sigma Black Belt Training Melbourne | SSBB Certification Exam Included</metatitle>
 		<metadescription>Six Sigma Black Belt Training and Certification. Instructor led training in Melbourne with 1 year of eLearning access. Post training instructor helpline. 100% money back. 24/7 support.</metadescription>
@@ -1692,12 +1686,6 @@
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-belt-training-instructor-led/manila</path>
-		<metatitle>Six Sigma Green Belt Training &amp; Certification |Exam Included</metatitle>
-		<metadescription>Instructor led training in Manila with 1 year eLearning access. Post training instructor helpline. SSGB Certification exam included. 24/7 support.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
 		<path>six-sigma-green-belt-training-instructor-led/melbourne</path>
 		<metatitle>Six Sigma Green Belt Training Melbourne | SSGB Certification Exam Included</metatitle>
 		<metadescription>Instructor led training in Melbourne with 1 year eLearning access. Post training instructor helpline. SSGB Certification exam included. 24/7 support.</metadescription>
@@ -1805,237 +1793,231 @@
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/abu-dhabi</path>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/abu-dhabi</path>
 		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<metadescription>Lean Six Sigma Instructor led training in Abu Dhabi with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/bangalore</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/bangalore</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Bangalore</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Bangalore with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/chennai</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/chennai</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Chennai</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Chennai with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/dubai</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/dubai</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Dubai</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Dubai with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/hong-kong</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/hong-kong</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Hong Kong</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Hong Kong with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/hyderabad</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/hyderabad</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Hyderabad</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Hyderabad with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/Hyderabad</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/jeddah</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Jeddah</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Jeddah with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/jeddah</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/mumbai</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Mumbai</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Mumbai with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/mumbai</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/new-delhi</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in New Delhi</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in New Delhi with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/new-delhi</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/pune</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Pune</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Pune with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/pune</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/riyadh</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Riyadh</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Riyadh with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/riyadh</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-and-black-belt-training-combo/singapore</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Singapore</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Singapore with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-and-black-belt-training-combo/singapore</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-belt-training-instructor-led/chicago</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Chicago</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Chicago with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-belt-training-instructor-led/chicago</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-belt-training-instructor-led/houston</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Houston</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Houston with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-belt-training-instructor-led/houston</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/lean-six-sigma-green-belt-training-instructor-led/minneapolis</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Minneapolis</metatitle>
+		<metadescription>Lean Six Sigma Instructor led training in Minneapolis with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>lean-six-sigma-green-belt-training-instructor-led/minneapolis</path>
-		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Lean Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. IASSC accredited. IASSC exam optional. 24/7 support.</metadescription>
-		<status>1</status>
-	</record>
-	<record>
-		<path>pmi-acp-training-instructor-led/bangalore</path>
+		<path>http://www.greycampus.com/pmi-acp-training-instructor-led/bangalore</path>
 		<metatitle>PMI ACP Certification Training in Bangalore | Instructor Led Training Course</metatitle>
 		<metadescription>Get PMI ACP certified with tailored instructor led training in Bangalore. PMI REP. 21 Contact Hour Certificate. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmi-acp-training-instructor-led/hyderabad</path>
+		<path>http://www.greycampus.com/pmi-acp-training-instructor-led/hyderabad</path>
 		<metatitle>PMI ACP Certification Training in Hyderabad | Instructor Led Training Course</metatitle>
 		<metadescription>Get PMI ACP certified with tailored instructor led training in Hyderabad. PMI REP. 21 Contact Hour Certificate. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-training-instructor-led/phoenix</path>
+		<path>http://www.greycampus.com/pmp-training-instructor-led/phoenix</path>
 		<metatitle>PMP Certification Training in Phoenix | Instructor Led Training Course</metatitle>
 		<metadescription>Get PMP certified with tailored instructor led training in Phoenix. PMI REP. 35 Contact Hour Certificate. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-training-instructor-led/san-diego</path>
+		<path>http://www.greycampus.com/pmp-training-instructor-led/san-diego</path>
 		<metatitle>PMP Certification Training in San Diego | Instructor Led Training Course</metatitle>
 		<metadescription>Get PMP certified with tailored instructor led training in San Diego. PMI REP. 35 Contact Hour Certificate. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>pmp-training-instructor-led/seattle</path>
+		<path>http://www.greycampus.com/pmp-training-instructor-led/seattle</path>
 		<metatitle>PMP Certification Training in Seattle | Instructor Led Training Course</metatitle>
 		<metadescription>Get PMP certified with tailored instructor led training in Seattle. PMI REP. 35 Contact Hour Certificate. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-and-practitioner-training-combo/bangalore</path>
-		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in </metatitle>
-		<metadescription>Prince2 Foundation and Practitioner Instructor led training in  with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/prince2-foundation-and-practitioner-training-combo/bangalore</path>
+		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in Bangalore</metatitle>
+		<metadescription>Prince2 Foundation and Practitioner Instructor led training in Bangalore with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-and-practitioner-training-combo/hyderabad</path>
-		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in </metatitle>
-		<metadescription>Prince2 Foundation and Practitioner Instructor led training in  with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/prince2-foundation-and-practitioner-training-combo/hyderabad</path>
+		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in Hyderabad</metatitle>
+		<metadescription>Prince2 Foundation and Practitioner Instructor led training in Hyderabad with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-and-practitioner-training-combo/jeddah</path>
-		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in </metatitle>
-		<metadescription>Prince2 Foundation and Practitioner Instructor led training in  with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/prince2-foundation-and-practitioner-training-combo/jeddah</path>
+		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in Jeddah</metatitle>
+		<metadescription>Prince2 Foundation and Practitioner Instructor led training in Jeddah with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-and-practitioner-training-combo/mumbai</path>
-		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in </metatitle>
-		<metadescription>Prince2 Foundation and Practitioner Instructor led training in  with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/prince2-foundation-and-practitioner-training-combo/mumbai</path>
+		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in Mumbai</metatitle>
+		<metadescription>Prince2 Foundation and Practitioner Instructor led training in Mumbai with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-and-practitioner-training-combo/pune</path>
-		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in </metatitle>
-		<metadescription>Prince2 Foundation and Practitioner Instructor led training in  with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/prince2-foundation-and-practitioner-training-combo/pune</path>
+		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in Pune</metatitle>
+		<metadescription>Prince2 Foundation and Practitioner Instructor led training in Pune with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>prince2-foundation-and-practitioner-training-combo/riyadh</path>
-		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in </metatitle>
-		<metadescription>Prince2 Foundation and Practitioner Instructor led training in  with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/prince2-foundation-and-practitioner-training-combo/riyadh</path>
+		<metatitle>Prince2 Foundation and Practitioner Training &amp; Certification Course in Riyadh</metatitle>
+		<metadescription>Prince2 Foundation and Practitioner Instructor led training in Riyadh with 1 year of eLearning access. PEOPLECERT ATO. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/abu-dhabi</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/abu-dhabi</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
+		<metadescription>Six Sigma Instructor led training in Abu Dhabi with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/bangalore</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/bangalore</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Bangalore</metatitle>
+		<metadescription>Six Sigma Instructor led training in Bangalore with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/chennai</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/chennai</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Chennai</metatitle>
+		<metadescription>Six Sigma Instructor led training in Chennai with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/dubai</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/dubai</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Dubai</metatitle>
+		<metadescription>Six Sigma Instructor led training in Dubai with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/hyderabad</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/hyderabad</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Hyderabad</metatitle>
+		<metadescription>Six Sigma Instructor led training in Hyderabad with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/jeddah</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/jeddah</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Jeddah</metatitle>
+		<metadescription>Six Sigma Instructor led training in Jeddah with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/manila</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/manila</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Manila</metatitle>
+		<metadescription>Six Sigma Instructor led training in Manila with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/mumbai</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/mumbai</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Mumbai</metatitle>
+		<metadescription>Six Sigma Instructor led training in Mumbai with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/new-delhi</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/new-delhi</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in New Delhi</metatitle>
+		<metadescription>Six Sigma Instructor led training in New Delhi with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/pune</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/pune</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Pune</metatitle>
+		<metadescription>Six Sigma Instructor led training in Pune with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/riyadh</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/riyadh</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Riyadh</metatitle>
+		<metadescription>Six Sigma Instructor led training in Riyadh with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
-		<path>six-sigma-green-and-black-belt-training-combo/singapore</path>
-		<metatitle>Six Sigma Green and Black Belt Training &amp; Certification Course in Abu Dhabi</metatitle>
-		<metadescription>Six Sigma Instructor led training in  with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
+		<path>http://www.greycampus.com/six-sigma-green-and-black-belt-training-combo/singapore</path>
+		<metatitle>Lean Six Sigma Green and Black Belt Training &amp; Certification Course in Singapore</metatitle>
+		<metadescription>Six Sigma Instructor led training in Singapore with 1 year of eLearning access. Post training instructor helpline. Certification exam included. 24/7 support.</metadescription>
 		<status>1</status>
 	</record>
 </document>
