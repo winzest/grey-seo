@@ -2016,91 +2016,91 @@
 	</record>
 	<record>
 		<path>become-our-trainer</path>
-		<metatitle>GreyCampus | Become our Trainer</metatitle>
+		<metatitle>GreyCampus | Become our Trainer</metatitle>
 		<metadescription>Teaching enthusiast? Become a trainer with GreyCampus and discover new teaching opportunites in professional training space.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>blog/networking</path>
-		<metatitle>GreyCampus | Networker's Blog</metatitle>
+		<metatitle>GreyCampus | Networker's Blog</metatitle>
 		<metadescription>The blog is managed by a computer networking professional and enthusiast. The blog cover various topics such as cisco certification, career options in networking and information security.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>blog/programming</path>
-		<metatitle>GreyCampus | Programmer's Blog</metatitle>
+		<metatitle>GreyCampus | Programmer's Blog</metatitle>
 		<metadescription>This is a blog for novice programmers and for anyone who wants to succeed as a programmer. The blog covers segments like career in programming, learning methodology, programming certification and more.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>training/big-data-hadoop-administration-webinar</path>
-		<metatitle>GreyCampus | Free Webinar on Hadoop Administration</metatitle>
+		<metatitle>GreyCampus | Free Webinar on Hadoop Administration</metatitle>
 		<metadescription>​Learn Hadoop Administration in GreyCampus to become a successful Hadoop Architect by mastering Hadoop Cluster: Planning &amp; Deployment, Monitoring, Performance tuning, Security using Kerberos, HDFS High Availability using Quorum Journal Manager (QJM) and Oozie, Hcatalog/Hive Administration.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>training/big-data-hadoop-webinar</path>
-		<metatitle>GreyCampus | Free Webinar - How to become big data developer</metatitle>
+		<metatitle>GreyCampus | Free Webinar - How to become big data developer</metatitle>
 		<metadescription>Become a Hadoop Expert by mastering MapReduce, Yarn, Pig, Hive, HBase, Oozie, Flume and Sqoop</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>training/pmi-acp-webinar</path>
-		<metatitle>GreyCampus | Free Webinar - PMI ACP Exam Change</metatitle>
+		<metatitle>GreyCampus | Free Webinar - PMI ACP Exam Change</metatitle>
 		<metadescription>Webinar on PMI ACP exam change and future trends. The webinar will be presented by Richard Wessen, who served in public and private sector in multiple postions.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>training/pmp-webinar</path>
-		<metatitle>GreyCampus | Free Webinar - PMP Exam Change</metatitle>
+		<metatitle>GreyCampus | Free Webinar - PMP Exam Change</metatitle>
 		<metadescription>​PMP exam is changing from January, 2016. How will it affect professionals? Know what is changing in the exam.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>webinar</path>
-		<metatitle>GreyCampus | Free Webinars for Professionals</metatitle>
+		<metatitle>GreyCampus | Free Webinars for Professionals</metatitle>
 		<metadescription>Keep yourself updated with our free webinars conducted every month.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>opencampus/big-data-developer/downloads</path>
-		<metatitle>OpenCampus | Big Data Free Downloads | Flashcards, PDF, Study Guide</metatitle>
+		<metatitle>OpenCampus | Big Data Free Downloads | Flashcards, PDF, Study Guide</metatitle>
 		<metadescription>OpenDownloads for the big data, the free downloads which consists mock exam, flash cards and other bigdata hadoop learning material.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>opencampus/certified-associate-in-project-management/practise-exams</path>
-		<metatitle>OpenCampus | CAPM Practice Exam | Simulated Mock Exam</metatitle>
+		<metatitle>OpenCampus | CAPM Practice Exam | Simulated Mock Exam</metatitle>
 		<metadescription>OpenCampus provides the free practice exam for certified assosiate in project management. This free test consists all levels of questions.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>opencampus/lean-six-sigma-green-belt/downloads</path>
-		<metatitle>OpenCampus | Lean Six Sigma Green Belt Free Downloads | Flashcards, PDF, Study Guide</metatitle>
+		<metatitle>OpenCampus | Lean Six Sigma Green Belt Free Downloads | Flashcards, PDF, Study Guide</metatitle>
 		<metadescription>OpenDownloads for the lean six sigma green belt certification. The free downloads which consists mock exam, flash cards and other lean six sigma green belt learning material.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>opencampus/prince-2-foundation/downloads</path>
-		<metatitle>OpenCampus | Prince2 Foundation Free Downloads | Flashcards, PDF, Study Guide</metatitle>
+		<metatitle>OpenCampus | Prince2 Foundation Free Downloads | Flashcards, PDF, Study Guide</metatitle>
 		<metadescription>OpenDownloads for the prince2 foundation. The free downloads which consists mock exam, flash cards and other Prince2 foundation learning material.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>opencampus/prince-2-foundation/flashcards</path>
-		<metatitle>OpenCampus | PRINCE2 Foundation Free Downloads | Flashcards, PDF, Study Guide</metatitle>
+		<metatitle>OpenCampus | PRINCE2 Foundation Free Downloads | Flashcards, PDF, Study Guide</metatitle>
 		<metadescription>OpenCampus's flash cards for Prince2 foundation certification. These flash cards</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>opencampus/prince-2-practitioner/what-is-prince-2</path>
-		<metatitle>OpenCampus | What is Prince2 - Practitioner</metatitle>
+		<metatitle>OpenCampus | What is Prince2 - Practitioner</metatitle>
 		<metadescription>The second of prince2 certifiation program, opencampus provides an overview of practitioner level methodology and certification.</metadescription>
 		<status>1</status>
 	</record>
 	<record>
 		<path>opencampus/lean-six-sigma-green-belt</path>
-		<metatitle>OpenCampus | Lean Six Sigma Green Belt</metatitle>
+		<metatitle>OpenCampus | Lean Six Sigma Green Belt</metatitle>
 		<metadescription>An overview of lean six sigma green belt certification which covers the topics like methodology used and various techniques which leads processess impovements.</metadescription>
 		<status>1</status>
 	</record>
